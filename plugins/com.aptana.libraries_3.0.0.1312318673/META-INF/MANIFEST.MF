@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+Export-Package: com.eaio.uuid,org.apache.derby.authentication,org.apac
+ he.derby.catalog,org.apache.derby.catalog.types,org.apache.derby.data
+ base,org.apache.derby.diag,org.apache.derby.iapi.db,org.apache.derby.
+ iapi.error,org.apache.derby.iapi.jdbc,org.apache.derby.iapi.security,
+ org.apache.derby.iapi.services.cache,org.apache.derby.iapi.services.c
+ lassfile,org.apache.derby.iapi.services.compiler,org.apache.derby.iap
+ i.services.context,org.apache.derby.iapi.services.crypto,org.apache.d
+ erby.iapi.services.daemon,org.apache.derby.iapi.services.diag,org.apa
+ che.derby.iapi.services.i18n,org.apache.derby.iapi.services.info,org.
+ apache.derby.iapi.services.io,org.apache.derby.iapi.services.jmx,org.
+ apache.derby.iapi.services.loader,org.apache.derby.iapi.services.lock
+ s,org.apache.derby.iapi.services.memory,org.apache.derby.iapi.service
+ s.monitor,org.apache.derby.iapi.services.property,org.apache.derby.ia
+ pi.services.stream,org.apache.derby.iapi.services.timer,org.apache.de
+ rby.iapi.services.uuid,org.apache.derby.iapi.sql,org.apache.derby.iap
+ i.sql.compile,org.apache.derby.iapi.sql.conn,org.apache.derby.iapi.sq
+ l.depend,org.apache.derby.iapi.sql.dictionary,org.apache.derby.iapi.s
+ ql.execute,org.apache.derby.iapi.store.access,org.apache.derby.iapi.s
+ tore.access.conglomerate,org.apache.derby.iapi.store.access.xa,org.ap
+ ache.derby.iapi.store.raw,org.apache.derby.iapi.store.raw.data,org.ap
+ ache.derby.iapi.store.raw.log,org.apache.derby.iapi.store.raw.xact,or
+ g.apache.derby.iapi.store.replication.master,org.apache.derby.iapi.st
+ ore.replication.slave,org.apache.derby.iapi.tools.i18n,org.apache.der
+ by.iapi.types,org.apache.derby.iapi.util,org.apache.derby.impl.db,org
+ .apache.derby.impl.io,org.apache.derby.impl.io.vfmem,org.apache.derby
+ .impl.jdbc,org.apache.derby.impl.jdbc.authentication,org.apache.derby
+ .impl.load,org.apache.derby.impl.services.bytecode,org.apache.derby.i
+ mpl.services.cache,org.apache.derby.impl.services.daemon,org.apache.d
+ erby.impl.services.jce,org.apache.derby.impl.services.jmx,org.apache.
+ derby.impl.services.jmxnone,org.apache.derby.impl.services.locks,org.
+ apache.derby.impl.services.monitor,org.apache.derby.impl.services.ref
+ lect,org.apache.derby.impl.services.stream,org.apache.derby.impl.serv
+ ices.timer,org.apache.derby.impl.services.uuid,org.apache.derby.impl.
+ sql,org.apache.derby.impl.sql.catalog,org.apache.derby.impl.sql.compi
+ le,org.apache.derby.impl.sql.conn,org.apache.derby.impl.sql.depend,or
+ g.apache.derby.impl.sql.execute,org.apache.derby.impl.sql.execute.rts
+ ,org.apache.derby.impl.store.access,org.apache.derby.impl.store.acces
+ s.btree,org.apache.derby.impl.store.access.btree.index,org.apache.der
+ by.impl.store.access.conglomerate,org.apache.derby.impl.store.access.
+ heap,org.apache.derby.impl.store.access.sort,org.apache.derby.impl.st
+ ore.raw,org.apache.derby.impl.store.raw.data,org.apache.derby.impl.st
+ ore.raw.log,org.apache.derby.impl.store.raw.xact,org.apache.derby.imp
+ l.store.replication,org.apache.derby.impl.store.replication.buffer,or
+ g.apache.derby.impl.store.replication.master,org.apache.derby.impl.st
+ ore.replication.net,org.apache.derby.impl.store.replication.slave,org
+ .apache.derby.impl.tools.sysinfo,org.apache.derby.io,org.apache.derby
+ .jdbc,org.apache.derby.mbeans,org.apache.derby.osgi,org.apache.derby.
+ security,org.apache.derby.shared.common.error,org.apache.derby.shared
+ .common.sanity,org.apache.derby.tools,org.apache.derby.vti
+Bundle-Vendor: %providerName
+Bundle-ClassPath: .,derby.jar,uuid.jar
+Bundle-Version: 3.0.0.1312318673
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.aptana.libraries
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: TDsZ/mOE/P3cqh18tfCE1WlSBQs=
+
+Name: derby-NOTICE
+SHA1-Digest: pnooh2yp/LPHZ0oascw6cVdeZCs=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: derby.jar
+SHA1-Digest: pv6bgAwMBNC+S49CQFCaPj4m7ws=
+
+Name: derby-LICENSE
+SHA1-Digest: K4uBUimqimHkg/tLoFiLi2xJGJA=
+
+Name: uuid.jar
+SHA1-Digest: sQ/0rRa89H/Ul/DDjF/qR0eeHfM=
+

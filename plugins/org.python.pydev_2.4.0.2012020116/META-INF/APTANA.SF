@@ -1,0 +1,539 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: 6EgzlNVb0K1KkGzOj5StjldR9w8=
+Created-By: 1.6.0_20 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: 0ZOVGy3C3PnKxkGyTtPJAYDctos=
+
+Name: PySrc/_pydev_xmlrpclib.py
+SHA1-Digest: g9hKv9FEVTnL6A7QQ4yqFH3qnDY=
+
+Name: schema/pydev_quick_outline.exsd
+SHA1-Digest: Su5IAx+WpP/GkUKTPQCjeR/3PD0=
+
+Name: icons/relaunch.png
+SHA1-Digest: 9jEoB8jgEwZEmWUVsXa3hpN0sR4=
+
+Name: icons/home_nav.gif
+SHA1-Digest: a/coY2cmA1VJU1WxtRlzB70bw1c=
+
+Name: PySrc/_pydev_execfile.py
+SHA1-Digest: MPgv4GKJdNtceiPHUs0UtEJ+Mog=
+
+Name: PySrc/_tipper_common.py
+SHA1-Digest: W96pVAQ2zRJ7WjUOQZXHNRZPRfM=
+
+Name: icons/python_comment_black.png
+SHA1-Digest: wVcpQQynvLMvtSIXxRT48KCAmR0=
+
+Name: icons/new/create_python_module.png
+SHA1-Digest: 5i0yYsP3y+X50WsVMkPr8PK6F7I=
+
+Name: icons/new/imp_rel_obj.gif
+SHA1-Digest: QTiHTTw+yhgHNQx2slZDBx0Z+s4=
+
+Name: icons/toggle_tabs.png
+SHA1-Digest: oeY2yBYrXUjaWHsN9pfOVn9NMAM=
+
+Name: icons/project_source_folder.gif
+SHA1-Digest: BFN5IHXUcCmPIVo6NfSzXIcLj3k=
+
+Name: icons/python_unit.png
+SHA1-Digest: uWxH3mvDfw2q5xUlBz9aFGtoqzs=
+
+Name: PySrc/tests/test_pyserver.py
+SHA1-Digest: wx03OuDNzWszTvw0bPoWZrqPVgg=
+
+Name: PySrc/jyimportsTipper.py
+SHA1-Digest: iYRILYUiNLHrNvdecW2f3bNgPtc=
+
+Name: schema/pydev_pythonpath_contrib.exsd
+SHA1-Digest: x1iHrpXFM6sM21iw2Vmh3OVA+UI=
+
+Name: PySrc/pycompletionserver.py
+SHA1-Digest: lU6PcOy4fciaExSGswzCWTmT1lw=
+
+Name: icons/tabs_active.png
+SHA1-Digest: /Yq55NcA2OZ7iAxhJoqTdvMqyZA=
+
+Name: icons/mainfunction.gif
+SHA1-Digest: zBk99R/QVXZL81kZA0Y2iYl3Uvg=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/macholib/dyld.py
+SHA1-Digest: ixuEp8PaPaw+DI9O8QzcMpsCwFc=
+
+Name: icons/relaunch_background_disabled.png
+SHA1-Digest: cPNaNATceBNT6cH5UElK56FZEww=
+
+Name: icons/search.gif
+SHA1-Digest: hnkzpyE5MXrBPj5u50LGwFvsX50=
+
+Name: pydev.jar
+SHA1-Digest: wERO7smI0mcQ5APSJLJA++H9SPk=
+
+Name: PySrc/tests/test_jyserver.py
+SHA1-Digest: YEm8+U8TppkQTzTXBwIjjHB1vrM=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/_ctypes.dll
+SHA1-Digest: +zekfXQsBoZeeIIASaTtrJri0f4=
+
+Name: PySrc/importsTipper.py
+SHA1-Digest: HIyjf+S8ASPhzygujbPnpcqxNlU=
+
+Name: PySrc/_pydev_inspect.py
+SHA1-Digest: UBO94yTQwKEPnNAKuhD1Z19tn30=
+
+Name: icons/fields_co.gif
+SHA1-Digest: Mq+gP1AK4KCndyZeWI8anBwl5Xo=
+
+Name: icons/terminate.gif
+SHA1-Digest: WiiSVg08V+9+XXI1oBn5w3/uR5Y=
+
+Name: schema/pydev_preferences_provider.exsd
+SHA1-Digest: /02W3Oyv7HBBvY1h31K9+BnZ+1c=
+
+Name: icons/remove.gif
+SHA1-Digest: vkjwIimpmgZrHg0E0dOiDeHM1JI=
+
+Name: PySrc/tests/check_pydevconsole.py
+SHA1-Digest: e7RjjRlxGHjIhxOP0CtR68LoCO0=
+
+Name: icons/library_obj.gif
+SHA1-Digest: GZAVCJ+ySbtHb69IfgWcJGwFVPw=
+
+Name: schema/pydev_ctrl_1.exsd
+SHA1-Digest: fYwlRuD2ROB4aWwx49TCov/s0sQ=
+
+Name: icons/new/method_obj.gif
+SHA1-Digest: W20a3mWkSk073deRVSWHnN6kXOI=
+
+Name: icons/old/attrpub_obj.gif
+SHA1-Digest: kTOj7L2OKULiDsF4ef4Vz4/8cV4=
+
+Name: icons/new/imp_obj.png
+SHA1-Digest: kImlyfhfeyhTrRRoViBgS8tOA30=
+
+Name: icons/pylint.png
+SHA1-Digest: CncguyQthDQiPO0Ko7BK0YeCKF8=
+
+Name: icons/field_protected_obj.gif
+SHA1-Digest: E1NeboDw/awkXBscksEH5Pjt2dc=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/wintypes.py
+SHA1-Digest: M54Y71xqexYVsLsmE34Jf3NjefM=
+
+Name: icons/static_co.gif
+SHA1-Digest: E/GXd6dylvETkya1Qeya83ahUt8=
+
+Name: icons/failures.gif
+SHA1-Digest: 9CCC58mUs1er7XfeCOXWm89QvtQ=
+
+Name: PySrc/pydev_ipython_console_011.py
+SHA1-Digest: 9SPobEsLC+45lk+7Bd69XminkkY=
+
+Name: icons/refresh_nav.gif
+SHA1-Digest: 2BKet6omIQMP22mn/FSsO5kfiI8=
+
+Name: PySrc/tests/test_pydev_ipython.py
+SHA1-Digest: 34dfHM71ZYaFTXoMZgHdSz+9wjI=
+
+Name: icons/warning_decoration.gif
+SHA1-Digest: 6iTQfEJzA3tA/bWe6xZBmIgISFs=
+
+Name: schema/pydev_organize_imports.exsd
+SHA1-Digest: inlCH8p/lQsLLbHFgPEuBoFh8U4=
+
+Name: icons/backward_nav.gif
+SHA1-Digest: T+1qZry9OT43d2EUXewFcNsTAOA=
+
+Name: libs/WinRegistry-4.4.jar
+SHA1-Digest: Z6thkQBpbM8X02hxXdcljBafgxk=
+
+Name: icons/new/imp_dec.gif
+SHA1-Digest: LpS+3RY4QeRE/zH0kc5JMq6Qf0w=
+
+Name: icons/old/class_obj.gif
+SHA1-Digest: 9EfD2GHHhztGcB1G4Q6jESOe98s=
+
+Name: icons/old/method_obj.gif
+SHA1-Digest: 10ay7yQ7WeTB1TXvnS/cwrVunek=
+
+Name: PySrc/pydev_ipython_console.py
+SHA1-Digest: tZ7hRvaehaugFvkFSm9B860BkgY=
+
+Name: icons/decoration_static_obj.png
+SHA1-Digest: 4IF3K1OIl30cl4/kctR+aNqBbW0=
+
+Name: icons/decoration_class_obj.png
+SHA1-Digest: V+OqvXXNvg+KpzqWV4bE+CNHIvM=
+
+Name: icons/copy.gif
+SHA1-Digest: SbZ224LWPy87AxmviyjZtxHldrc=
+
+Name: PySrc/pydev_sitecustomize/sitecustomize.py
+SHA1-Digest: DoguuvfI2PGCGiGXK9kxt1wyRWs=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/ctypes-README.txt
+SHA1-Digest: QYYP/+RfY45O2dc+zKFpwwE6pMo=
+
+Name: icons/private_obj.gif
+SHA1-Digest: 8hnV4AQuPOrjTQ5Puue+Wg/06Pw=
+
+Name: icons/save.gif
+SHA1-Digest: j3R85o2DrpGtBwXSI+rcJSxurSs=
+
+Name: PySrc/_pydev_SimpleXMLRPCServer.py
+SHA1-Digest: zsfrXrZFes+Vx9Ppxl7b0MP13+M=
+
+Name: schema/pydev_pyedit_listener.exsd
+SHA1-Digest: sCpfKimjb2XD6qtWcyPgIlNPuHs=
+
+Name: icons/python_logo.png
+SHA1-Digest: TW9kriniznsJH+bczO6smgHXqrg=
+
+Name: icons/python_refactor.png
+SHA1-Digest: O5G7qYmTpasZQOSQboOIVYI9Xjs=
+
+Name: icons/pydev_package_explorer.gif
+SHA1-Digest: SmFkcKeEfAr/nZT/jsT+q5Xteps=
+
+Name: schema/pydev_modules_observer.exsd
+SHA1-Digest: RK/l/m+nPqr+n0NfsIGfjEiBZ20=
+
+Name: icons/python_16x16.png
+SHA1-Digest: jWKIi+15bp4peW12gmzKwoq0g+A=
+
+Name: icons/annotation_obj.gif
+SHA1-Digest: DbgYK19KbfDZF4Jae6T3QDPH79s=
+
+Name: plugin.xml
+SHA1-Digest: SRNIJa4VomDre+xFLUdfE2sepas=
+
+Name: PySrc/ThirdParty/__init__.py
+SHA1-Digest: CDkIWr7il1ANSUu3+wP9yreorDc=
+
+Name: schema/pydev_manager_observer.exsd
+SHA1-Digest: rHCsTukSQggIezNgSOcnoRbXnUI=
+
+Name: icons/new/__imp_obj.gif
+SHA1-Digest: wXbtvJ9qy0rtWF51tY5D281JMRI=
+
+Name: icons/python_run.png
+SHA1-Digest: 4k69EUTWG+vaTMftZnWdEX1TPyE=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/not_in_default_pythonpath.txt
+SHA1-Digest: M/zJhVjLVBoCBLBZILyoKnl5uro=
+
+Name: PySrc/ThirdParty/pep8/pep8.py
+SHA1-Digest: O+TTJa71iGUK5UCQj5PtMTDyds8=
+
+Name: PySrc/pydevconsole_code_for_ironpython.py
+SHA1-Digest: vGRD+yLoGCEUpwSlg5N2pPzFMaM=
+
+Name: LICENSE.txt
+SHA1-Digest: q6BYIYOKqW7zbviW1rH/+OQQRjE=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/macholib/__init__.py
+SHA1-Digest: 6A4+enccdVAiWjvwITeuXcEQleI=
+
+Name: icons/error_decoration.gif
+SHA1-Digest: 05hrdT5LBJPfK12se51u08UF+xM=
+
+Name: icons/sample.gif
+SHA1-Digest: mURGpp/gEzPu434WkU1WXZbyKOY=
+
+Name: icons/search_docs.gif
+SHA1-Digest: deC/VH3F3/PwtqZ83ILGC0aNpAc=
+
+Name: icons/history_list.gif
+SHA1-Digest: uAfxcN7e6bfaya2VYtSoLwAeda4=
+
+Name: icons/new/attrpub_obj.gif
+SHA1-Digest: KogNiNMITws/OXh3klesBehVvb0=
+
+Name: schema/pydev_builder.exsd
+SHA1-Digest: 9/BVDnA6w5vK5hU3uEpTwzUe/zk=
+
+Name: icons/packagefolder_obj.gif
+SHA1-Digest: 2/sWFy+HBfmjFQLuKQ8PugBuCiU=
+
+Name: PySrc/pycompletion.py
+SHA1-Digest: TrkzyvE+RWuQOoTr+c/Wn5PgXks=
+
+Name: icons/alphab_sort_co.gif
+SHA1-Digest: 4THhHUXRvnPQ3Zpe2OrWCixFBt4=
+
+Name: schema/pydev_hover.exsd
+SHA1-Digest: MJHkc314WZpesXFVzx75LOdTBOA=
+
+Name: icons/add_correction.gif
+SHA1-Digest: 60hzSrUsRAyqqFSPewk7cEtyke0=
+
+Name: icons/relaunch1.png
+SHA1-Digest: MRzKsJwQ+qe0J2+WX7mw+C86gSc=
+
+Name: icons/old/class_obj_imp.gif
+SHA1-Digest: nPxHC8pgagl6DRyhQKUneLkwr5A=
+
+Name: icons/environment_obj.gif
+SHA1-Digest: BslSHTRkVFvlOxH4CqvGxAq2FV0=
+
+Name: icons/python_perspective.png
+SHA1-Digest: tGI8HRUg051kKOn2wagaEQqcF18=
+
+Name: schema/pydev_simpleassist.exsd
+SHA1-Digest: ViWm+GAWPGNEYYzbSLo9xT5pU98=
+
+Name: PySrc/interpreterInfo.py
+SHA1-Digest: cyeh5IiePHkyu0TzLsMHlSjHX18=
+
+Name: icons/new/create_method_obj.png
+SHA1-Digest: ML/bXoi+PPcmj2XO0mYGvc2KCuA=
+
+Name: icons/showerr_tsk.gif
+SHA1-Digest: EQwc30CJpaq2z6iizdz8y0QZb/Y=
+
+Name: schema/pydev_globals_browser.exsd
+SHA1-Digest: I2zxQq9rJpEt6v2YY8rwojGZoPA=
+
+Name: icons/python_module.png
+SHA1-Digest: kJ0dhLb5NRr7Fj/E5QJPuXUv7lE=
+
+Name: icons/cpyqual_menu.gif
+SHA1-Digest: zF64d78GHTxrck2ivChGNgr2+BM=
+
+Name: PySrc/_pydev_log.py
+SHA1-Digest: bKMlizvjmSpqH6J4CWn58Wn2pW0=
+
+Name: PySrc/_pydevd_re.py
+SHA1-Digest: y56/CVhGzqvj7NM194DDxFjvv3s=
+
+Name: icons/parameters_obj.gif
+SHA1-Digest: yNlo+b8r/2Lpnz2eg+VeJc0vvZs=
+
+Name: schema/pydev_view_created_observer.exsd
+SHA1-Digest: hIArzsu3gfQduZ6Zk8jk32/45lM=
+
+Name: icons/jar_desc_obj.gif
+SHA1-Digest: M0NhvLxULocYXa4D5vOCYBoLoS4=
+
+Name: icons/filter.gif
+SHA1-Digest: h8ebue4jT8DszibPKqPp0snO71A=
+
+Name: icons/python_nature.png
+SHA1-Digest: dpqOFZMgVQHVLWCgSHOp5gbf2OQ=
+
+Name: schema/pydev_interpreter_info_builder.exsd
+SHA1-Digest: 6Hz4OUc2OI8welJv7PbNZK+Z/js=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/macholib/framework.py
+SHA1-Digest: 2INkIolK1DqyPp99aFBbUipcOTM=
+
+Name: icons/file.gif
+SHA1-Digest: mixwPO3g/SbllqDkEtGmriVH5P0=
+
+Name: icons/new/create_attrpub_obj.png
+SHA1-Digest: ekles7wgxgzoZfRZOXsE0BVctPo=
+
+Name: schema/pydev_formatter.exsd
+SHA1-Digest: cpNSTFdKEQDKa7szv1rdF3b4WNY=
+
+Name: icons/field_private_obj.gif
+SHA1-Digest: 9Mk307wMXfIBoC0xEw0gOXgn+2I=
+
+Name: icons/remove_nature.png
+SHA1-Digest: ow/mxmgQ2cwMWHzeMX7KLAe7T+0=
+
+Name: plugin.properties
+SHA1-Digest: CvqLTBDBaEhPiXCj2GchFHIDIPM=
+
+Name: icons/python_coverage.png
+SHA1-Digest: mW96iVhgKrkE2rzjjMDg4Pl/WQ0=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/__init__.py
+SHA1-Digest: R31ZEMic6RMlUTYceUDntRA6mSo=
+
+Name: about.ini
+SHA1-Digest: e7PlBoEfvvIjg7kZHJeSENB+F2U=
+
+Name: icons/build_var_obj.gif
+SHA1-Digest: DtvwFHbKe5S8iuzgUwzSf2qOSFs=
+
+Name: icons/protected_obj.gif
+SHA1-Digest: 2Ee1MZ6omS2rMwrGhNr0kC2V5f0=
+
+Name: icons/sync_ed.gif
+SHA1-Digest: i2NmV0jjuagPsjfC1pKRBy0tSvs=
+
+Name: icons/field_public_obj.gif
+SHA1-Digest: EtsROVG2b97n6ys/wb+49HJB8Vo=
+
+Name: PySrc/pydev_localhost.py
+SHA1-Digest: XrMJpPbS3rEeRHJpHjPgh9U0c7s=
+
+Name: icons/folder.gif
+SHA1-Digest: iuGns/HhEDTrmF8z9lskcrQl2sA=
+
+Name: icons/python_comment.png
+SHA1-Digest: bBF2/362vvnOTwqOiHzrsYk1QMw=
+
+Name: PySrc/pydev_console_utils.py
+SHA1-Digest: yo7K8vuDA6tGwKSL4eS+OONqJsk=
+
+Name: icons/jython_run.png
+SHA1-Digest: pEjfgg6GAAUvzn+Eb/DbS4XFRrI=
+
+Name: PySrc/tests/test_pydevconsole.py
+SHA1-Digest: Y3qxK/MVjxcMWEI1fVoJqzoKrgk=
+
+Name: icons/relaunch_background_enabled.png
+SHA1-Digest: V7yK0j2781ix6itOT6d9762a1Ag=
+
+Name: icons/jar_src_obj.gif
+SHA1-Digest: 4GBFsLaGs9sZL2ZWkgsj9TePG5s=
+
+Name: icons/old/attr_obj_imp.gif
+SHA1-Digest: KXXncHNKNOjr2QHzAAoFEmTqtB8=
+
+Name: icons/error_small.gif
+SHA1-Digest: 8QuIsqFn2p1oxffjhUMi3begmZY=
+
+Name: icons/close.gif
+SHA1-Digest: uqJziuVDKJSWg6KMg/qFqrQB8gQ=
+
+Name: icons/old/method_obj_imp.gif
+SHA1-Digest: BFTTiOyBZ9jShkY4DbbEVrL81N8=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/util.py
+SHA1-Digest: tu1Pnzmue5MfKGWZ44bUYwzlEyY=
+
+Name: icons/tabs_inactive.png
+SHA1-Digest: BUPN9ZYyfG4cqVIz9YfWLpflOzo=
+
+Name: icons/expand.gif
+SHA1-Digest: cAI9c0wku488Iiz8zzN3yB8tYFc=
+
+Name: schema/pydev_interpreter_observer.exsd
+SHA1-Digest: zIYJC90stjZaqPqD3NifYXSDN0M=
+
+Name: icons/jar_l_obj.gif
+SHA1-Digest: B3aiU+qNri8tp7UhQMn8j+MAJYA=
+
+Name: icons/new/class_obj.gif
+SHA1-Digest: 9Ym6ZfUkmmCO5PqlRnxQMMj2enE=
+
+Name: PySrc/pydevconsole.py
+SHA1-Digest: oFqFTbxviaHYAv49+hhfQ3wnrAY=
+
+Name: icons/pythonNature.gif
+SHA1-Digest: hjUj2x9KHfSrNl7mhCU/pHuZ7bk=
+
+Name: schema/pydev_refactoring.exsd
+SHA1-Digest: KO2gZT7Zlp9zG03s1XlK/1qV9eI=
+
+Name: PySrc/tests/test_simpleTipper.py
+SHA1-Digest: TjwnD7KamV9U6zjfH8wRkvlALyc=
+
+Name: icons/magic_co.gif
+SHA1-Digest: iPPyIb7/5n6EwfhW/vtcmWi5sbQ=
+
+Name: schema/pydev_completion.exsd
+SHA1-Digest: D9PisYJTKdbKDx31ljGC+g9DIcs=
+
+Name: PySrc/_completer.py
+SHA1-Digest: 1obk2W1yhaYIpAoB3Huf4pXji2U=
+
+Name: PySrc/tests/test_jysimpleTipper.py
+SHA1-Digest: hEHwGkdT4JqOFd/WKpYiuDRrB0g=
+
+Name: icons/new/create_class_obj.png
+SHA1-Digest: 79dj/dC8TyFvMNg+Vi5hDzcIgRk=
+
+Name: icons/custom_python_file.png
+SHA1-Digest: 1U8jrmf0vxh9DEctOXYed2+TmtY=
+
+Name: Pydev.gif
+SHA1-Digest: PPK7SpiE3RknKhng7M4VZ/Zvpts=
+
+Name: about.mappings
+SHA1-Digest: BlqpDC5B+1tZ7IAlM4nBbyJUd+0=
+
+Name: icons/collapseall.gif
+SHA1-Digest: Sk0RZTTjpfKTSwIe5SwdF6xHWTk=
+
+Name: icons/cython_file.png
+SHA1-Digest: zojRFEeKSS0uP+oocQHmHlj5owY=
+
+Name: icons/cython.png
+SHA1-Digest: 20Q/ulCJKxEbhi7Z4kWUg7TReW4=
+
+Name: icons/warning.png
+SHA1-Digest: VnpKrnG9LMHvDFExt2n+KYtsdr4=
+
+Name: icons/builtin_obj.gif
+SHA1-Digest: LqCc6+MJdLHIvd1gd/i8D1nRwRs=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/_endian.py
+SHA1-Digest: kNXbUzRQz7KHLze82W7d1T8Au6g=
+
+Name: icons/correction_move.gif
+SHA1-Digest: Y3q6R2rsEYLYiRRUPSwV60vc70k=
+
+Name: icons/forward_nav.gif
+SHA1-Digest: Ffv/orFF2JuIVeDU5K8L1tBDwmY=
+
+Name: icons/jar_nonexist_obj.gif
+SHA1-Digest: rsrx4oER160Jr9S0CbMkyr5itc0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SwPvGXzoqhbu6llulpm8WpBxiUo=
+
+Name: icons/python_file.gif
+SHA1-Digest: fwnci6D9/s0Beg21Eg2huEoq87Y=
+
+Name: icons/terminate_all.gif
+SHA1-Digest: WC2Hf2HcsD4olCSQZVP7+XmeWbo=
+
+Name: icons/jar_obj.gif
+SHA1-Digest: 6goCVoMxJezXklv3fBo82uikDaE=
+
+Name: icons/new/imp_obj.gif
+SHA1-Digest: 16UWlLtCnIneT4vL+ve4M9gE98M=
+
+Name: PySrc/pydev_imports.py
+SHA1-Digest: FnFdRIKyaJdzh2IyAf3q8mWk1ts=
+
+Name: icons/gotten_from.txt
+SHA1-Digest: LrH/c8R14DcpyL1QiKp+j2IkwVk=
+
+Name: icons/old/imp_rel_obj.gif
+SHA1-Digest: IiTmOMuKOVq8LIAOVHivQo8sXKs=
+
+Name: icons/new/old_imp_rel_obj.gif
+SHA1-Digest: JM+VvoDFgvSRmxVOu9HNb/ppFoY=
+
+Name: icons/template.gif
+SHA1-Digest: YnUXt/hAI3yBj9Bdqz+WjZabhJM=
+
+Name: icons/custom_init.png
+SHA1-Digest: b7Gn9N5H1SrvTlPW6oWMFseDnSU=
+
+Name: icons/jar_lsrc_obj.gif
+SHA1-Digest: q5oZL9wgLBdJVppPD8s38rVKr+w=
+
+Name: schema/pydev_debug_preferences_page.exsd
+SHA1-Digest: mhqtU6oNT0mlL/55QjtAFBfeUzk=
+
+Name: icons/package_obj.gif
+SHA1-Digest: lTIYopFQMlotSUFJCAEj+yPAT4k=
+
+Name: PySrc/ThirdParty/wrapped_for_pydev/ctypes/macholib/dylib.py
+SHA1-Digest: 17JxfcAU4/jQ7yBwbfDK02egLng=
+
+Name: icons/relaunch_errors.png
+SHA1-Digest: JxkSg7yieWw+zVDLyStrGzGa7S4=
+
+Name: icons/old/imp_obj.gif
+SHA1-Digest: /ak+h/IDwyvpa5UD3JRFseIbWLw=
+
+Name: PySrc/pydev_ipython_console_010.py
+SHA1-Digest: 59Xh48C7fX6PSaV4V664niIDKtE=
+

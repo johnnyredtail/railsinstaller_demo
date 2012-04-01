@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.python.pyd
+ ev.parser,org.eclipse.jface.text,org.python.pydev.core,org.python.pyd
+ ev;bundle-version="2.4.0.2012020116",com.python.pydev
+Export-Package: com.python.pydev.fastparser
+Bundle-Vendor: Aptana
+Eclipse-LazyStart: true
+Bundle-ClassPath: fastparser.jar
+Bundle-Version: 2.4.0.2012020116
+Bundle-Name: Fastparser Plug-in
+Bundle-Localization: plugin
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.python.pydev.fastparser.FastparserPlugin
+Bundle-SymbolicName: com.python.pydev.fastparser; singleton:=true
+
+Name: LICENSE.TXT
+SHA1-Digest: p+9tB+uCL9D+iYG9D8zDHITgqgU=
+
+Name: fastparser.jar
+SHA1-Digest: cVC/8tp6ZjP6bFjVjZJbqWLKgHo=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: plugin.xml
+SHA1-Digest: vhsqsw4pEKXDdiqIkEMLkjjE6XY=
+

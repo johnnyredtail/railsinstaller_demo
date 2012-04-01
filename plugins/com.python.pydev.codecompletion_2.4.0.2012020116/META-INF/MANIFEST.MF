@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.jf
+ ace.text,org.python.pydev;bundle-version="2.4.0.2012020116",com.pytho
+ n.pydev,org.python.pydev.core,org.python.pydev.parser,org.junit;bundl
+ e-version="[3.8.0,3.9.9]";resolution:=optional,com.python.pydev.fastp
+ arser,org.eclipse.core.resources,com.python.pydev.analysis,org.eclips
+ e.ui.editors,com.python.pydev.refactoring
+Export-Package: com.python.pydev.codecompletion
+Bundle-Vendor: Aptana
+Eclipse-LazyStart: true
+Bundle-ClassPath: codecompletion.jar
+Bundle-Version: 2.4.0.2012020116
+Bundle-Name: Codecompletion Plug-in
+Bundle-Localization: plugin
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.python.pydev.codecompletion.CodecompletionPlugin
+Bundle-SymbolicName: com.python.pydev.codecompletion; singleton:=true
+
+Name: LICENSE.TXT
+SHA1-Digest: p+9tB+uCL9D+iYG9D8zDHITgqgU=
+
+Name: codecompletion.jar
+SHA1-Digest: ZGE53dJ1+ifYHmN9DDtim5gEfOo=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: plugin.xml
+SHA1-Digest: 1DoBoOGearFtj9D6UDW7qWGdY4A=
+

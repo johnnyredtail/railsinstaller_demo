@@ -1,0 +1,48 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.jf
+ ace.text,org.python.pydev,org.python.pydev.core,org.junit;bundle-vers
+ ion="[3.8.0,3.9.9]";resolution:=optional,org.python.pydev.ast,org.pyt
+ hon.pydev.parser,org.eclipse.ui.editors,org.eclipse.ui.workbench.text
+ editor,org.eclipse.core.resources,org.eclipse.core.variables,org.ecli
+ pse.debug.core,org.eclipse.debug.ui,org.python.pydev.debug,org.eclips
+ e.ui.console,org.python.pydev.jython,org.eclipse.search,org.eclipse.u
+ i.ide,org.python.pydev.customizations,org.eclipse.core.expressions
+Bundle-Vendor: Aptana
+Eclipse-LazyStart: true
+Bundle-ClassPath: pydev_django.jar
+Bundle-Version: 2.4.0.2012020116
+Bundle-Name: Pydev Django
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.python.pydev.django.DjangoPlugin
+Bundle-SymbolicName: org.python.pydev.django;singleton:=true
+
+Name: LICENSE.txt
+SHA1-Digest: p+9tB+uCL9D+iYG9D8zDHITgqgU=
+
+Name: icons/django_16x16.png
+SHA1-Digest: 00tghNJKIPf7eKjxI6jSF7dJXUI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: plugin.xml
+SHA1-Digest: pltYQEkPI6zUM9QPjndOiHZ9RPY=
+
+Name: icons/django_remove_nature.png
+SHA1-Digest: 3e9VDt2vyVvGKqxIX5qzoK++Tzs=
+
+Name: icons/django_nature.png
+SHA1-Digest: ithlCWEBj3QpJDEeMoobnP6Z0BE=
+
+Name: pydev_django.jar
+SHA1-Digest: lcXVyLnGeUeoQKNcSMF7XIdegXQ=
+
+Name: icons/django_logo.png
+SHA1-Digest: 4fNGRdzf+2kVlsiS15Oyl6xr5tc=
+
+Name: icons/djangoNature.gif
+SHA1-Digest: 8MxQPwUIa6HtOstKA7OOcIJb3lU=
+
+Name: icons/django_7x7.png
+SHA1-Digest: J3X35k0fAxp094l+xXubAVfH3Ys=
+

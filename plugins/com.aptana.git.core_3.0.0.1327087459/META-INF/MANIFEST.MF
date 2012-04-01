@@ -1,0 +1,290 @@
+Manifest-Version: 1.0
+Export-Package: com.aptana.git.core,com.aptana.git.core.model
+Bundle-ActivationPolicy: lazy
+Bundle-Name: %Bundle-Name
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.team.core,org.ecl
+ ipse.debug.core,org.eclipse.core.filesystem,com.aptana.core,com.aptan
+ a.core.epl,com.aptana.filewatcher
+Bundle-Vendor: %Bundle-Vendor
+Bundle-Version: 3.0.0.1327087459
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.aptana.git.core.GitPlugin
+Bundle-SymbolicName: com.aptana.git.core;singleton:=true
+Eclipse-ExtensibleAPI: true
+
+Name: com/aptana/git/core/GitResourceListener$1.class
+SHA1-Digest: vueLutWN6Fr8Q7hyrup7PVQqtXg=
+
+Name: com/aptana/git/core/model/GitRepository$4$4.class
+SHA1-Digest: UDaSNlmIX8PvxukrMI2WKQtMpmM=
+
+Name: os/win32/sshw.exe
+SHA1-Digest: Aw0El224cNauWH/z5rTtan8t3XU=
+
+Name: os/macosx/ssh-askpass.tcl
+SHA1-Digest: eAQtBkpRrfpHZ1QbSllGPhZgB8w=
+
+Name: com/aptana/git/core/GitMoveDeleteHook.class
+SHA1-Digest: JK16Yx6P+NZPwCgS8uevErd5Ep0=
+
+Name: com/aptana/git/core/model/GitIndex$UnstagedFilesRefreshJob.class
+SHA1-Digest: 0TYqterOIgeJ1S0cyckK8A1GHko=
+
+Name: os/linux/ssh-askpass.tcl
+SHA1-Digest: f5C01EpadHwu+ckHZTNb+M2hiz4=
+
+Name: com/aptana/git/core/messages.properties
+SHA1-Digest: 9Fb0jYJjQfPYx8kdBov0YvgB85g=
+
+Name: com/aptana/git/core/GitRepositoryProvider.class
+SHA1-Digest: 5++AU7Vtimr7W7sDiyHUVroVdSY=
+
+Name: com/aptana/git/core/model/GitExecutable$CloneRunnable.class
+SHA1-Digest: nl4BIUjAlkAVil3K2mvqeKE3uYY=
+
+Name: com/aptana/git/core/model/GitRevSpecifier.class
+SHA1-Digest: SgZlQVQ61LM91rqwlyvdp14Jnzk=
+
+Name: com/aptana/git/core/Messages.class
+SHA1-Digest: Mit9i/W5gPa6sHw8NY1AoVqGLpY=
+
+Name: com/aptana/git/core/model/AbstractGitRepositoryListener.class
+SHA1-Digest: V4ix35WsKrV9GwHTKwTUJeJPYzE=
+
+Name: com/aptana/git/core/GitResourceListener$2.class
+SHA1-Digest: w1h6Sv4igJVOHcBCWUw8iXdHz78=
+
+Name: com/aptana/git/core/GitPlugin.class
+SHA1-Digest: +8/LPZ6q6Bkgrf0AjAHJHbWXfhs=
+
+Name: com/aptana/git/core/model/GitRepository.class
+SHA1-Digest: 6KHdcqCQuF01uSEMJD7j9igPWko=
+
+Name: com/aptana/git/core/model/GitRepository$ReadWrite.class
+SHA1-Digest: qkQ1VrWBPog1l3sZDyiOJOJLpf0=
+
+Name: com/aptana/git/core/model/BranchRemovedEvent.class
+SHA1-Digest: SweZWQdEAGNsAKFzplB3yE0Dh6g=
+
+Name: com/aptana/git/core/model/ProjectRepositoryEvent.class
+SHA1-Digest: q/jrXPC02BfI/kXnyn7gv/rwiBI=
+
+Name: com/aptana/git/core/model/IGitRepositoryManager.class
+SHA1-Digest: v9aBSEqYJwFCqUxjodmsuaSGcvg=
+
+Name: com/aptana/git/core/model/Diff.class
+SHA1-Digest: LNdADAIcUapMIoQ+mFrQzjO6y7E=
+
+Name: plugin.properties
+SHA1-Digest: yn8hQWVcgHHJ3ywWT3Ga4t4cH3I=
+
+Name: com/aptana/git/core/model/GitRevList.class
+SHA1-Digest: rY4t9mN7Y9Hh0w8gqr3WkojXhSI=
+
+Name: com/aptana/git/core/GitRepositoryProviderType.class
+SHA1-Digest: KZwGVhHTg1qD3o/DVmfl3NI5r7c=
+
+Name: com/aptana/git/core/model/GitRef.class
+SHA1-Digest: W6oo5FTLCdTOBp+Nhbyq6ftNsm4=
+
+Name: com/aptana/git/core/model/GitRepository$4$2.class
+SHA1-Digest: ONrKf0ae2LD5OiHgHWPo5nJO1Hk=
+
+Name: com/aptana/git/core/GitRepositoryProviderType$1.class
+SHA1-Digest: lTzioFJTvHRjdGffoTn2ldebZk0=
+
+Name: com/aptana/git/core/model/GitRepository$2$1.class
+SHA1-Digest: 11w2wGcJZ5oR6uwl+zrdkYpPziI=
+
+Name: com/aptana/git/core/model/PullEvent.class
+SHA1-Digest: nhCVnhdLlh5fqc2Wz++fBGgyGhs=
+
+Name: com/aptana/git/core/model/GitRepository$2.class
+SHA1-Digest: 7eoEBLJQn5ezOTQHumIXm+vQvho=
+
+Name: com/aptana/git/core/model/BranchChangedEvent.class
+SHA1-Digest: 2gWf1ut+D4BiRltU3uHS0p6AmiY=
+
+Name: license.html
+SHA1-Digest: 2JkYDfFS72NtZ2hBQyp4qw6OoX4=
+
+Name: com/aptana/git/internal/core/storage/WorkspaceFileRevision.class
+SHA1-Digest: amG7rmZ0VGh/fK3FPlLcFgRNE88=
+
+Name: com/aptana/git/core/model/ChangedFile$Status.class
+SHA1-Digest: ukTS8IpdXVXBzpy/RTB2q455iYc=
+
+Name: com/aptana/git/core/model/GitRepositoryManager.class
+SHA1-Digest: LleMA9a2M5tp6LuY+qYBu/gvAZQ=
+
+Name: com/aptana/git/internal/core/storage/GitFileHistory.class
+SHA1-Digest: r546rcfxr4wpN1xdmFEZeT3a/U8=
+
+Name: com/aptana/git/internal/core/storage/GitFileRevision.class
+SHA1-Digest: 2QZbtmwUAoMHHZItckQZBVXZG8E=
+
+Name: com/aptana/git/core/IPreferenceConstants.class
+SHA1-Digest: Kj+SNG5myyK+3ERSVcrykEu/VL4=
+
+Name: com/aptana/git/core/model/RepositoryEvent.class
+SHA1-Digest: KW141gVrEXz8mqWbfsA7vYLfAkU=
+
+Name: com/aptana/git/core/model/PortableGit$1.class
+SHA1-Digest: wkr9hFf5Dn+D7Pb7z/SwutlPLus=
+
+Name: com/aptana/git/core/model/messages.properties
+SHA1-Digest: zKM5lr76evpLeXVu1QAc3RNldAw=
+
+Name: com/aptana/git/internal/core/launching/messages.properties
+SHA1-Digest: wGiDp4O4IqOPZvCOTATUYwJJAFg=
+
+Name: os/linux/askpass.tcl
+SHA1-Digest: dOzLkejMFv1pCNjBYJv+dk54hDw=
+
+Name: os/macosx/askpass.tcl
+SHA1-Digest: RzPnoO/fls+JjnJop+GwLh/E2xM=
+
+Name: com/aptana/git/core/IDebugScopes.class
+SHA1-Digest: kz/QThFiCW0QMu4DiUV9B+EgwF0=
+
+Name: com/aptana/git/internal/core/PreferenceInitializer.class
+SHA1-Digest: N6zF2O7Oe8JrwQIXsHeQJeRcLPA=
+
+Name: com/aptana/git/core/model/GitIndex$1.class
+SHA1-Digest: HdutIp/SWNP5CM8klVl/sQ71u7w=
+
+Name: com/aptana/git/internal/core/storage/CommitFileRevision.class
+SHA1-Digest: VTNc+bnqaJZw1c/HEhul1S2PSiQ=
+
+Name: com/aptana/git/core/model/GitRepository$3$1.class
+SHA1-Digest: gloZQrGr/S57rZpW5MKfiKcvHjc=
+
+Name: com/aptana/git/internal/core/launching/GitLaunchDelegate.class
+SHA1-Digest: eHXr7oHXQSDw0QCRfoBwDyLAyy0=
+
+Name: com/aptana/git/core/model/GitIndex$UntrackedFilesRefreshJob.clas
+ s
+SHA1-Digest: ckvC3a0dzNBqTb6+j7lVShYiNXQ=
+
+Name: com/aptana/git/core/model/GitIndex$StagedFilesRefreshJob.class
+SHA1-Digest: H/MMGim64AZZfz40ZGXxltomUQc=
+
+Name: com/aptana/git/core/model/IGitRepositoryListener.class
+SHA1-Digest: efKni4AS84LT9vS4oAZcBSAYaLU=
+
+Name: com/aptana/git/core/GitProjectRefresher$1.class
+SHA1-Digest: ILFDUf7nLjhcArrsdQt2KoVbzO4=
+
+Name: com/aptana/git/core/model/GitRepository$1$1.class
+SHA1-Digest: yQhErLAQJdoIzDywBFw40SsKYo4=
+
+Name: com/aptana/git/core/GitMoveDeleteHook$1.class
+SHA1-Digest: XO2hPAGh0NOfYb12R+C3nLk9tFY=
+
+Name: com/aptana/git/internal/core/storage/GitFileHistoryProvider.clas
+ s
+SHA1-Digest: QaWhe1wipas6W1xqDDno8vw5hdY=
+
+Name: com/aptana/git/core/model/PortableGit.class
+SHA1-Digest: ytyAKFbQIh08S0oQWmNovCcoALY=
+
+Name: com/aptana/git/core/model/GitIndex$FilesRefreshJob.class
+SHA1-Digest: /xBaZz2a8uLK9YifM9M8uyYz6kA=
+
+Name: com/aptana/git/core/model/GitCommit.class
+SHA1-Digest: 0FUj0tptI4bIWVNy3gNgdVTyDdw=
+
+Name: com/aptana/git/core/model/GitRepository$4$1.class
+SHA1-Digest: 8owG2/LxcppU7XXTyM2YaKIM4bw=
+
+Name: com/aptana/git/core/GitPlugin$1.class
+SHA1-Digest: JI6TRghl3SEL7ZU4x2fMkCgzLrg=
+
+Name: com/aptana/git/core/model/GitExecutable$1.class
+SHA1-Digest: TSiJxmVTKGOEeTzs+aT1+PyAL+I=
+
+Name: com/aptana/git/core/IGitLaunchConfigurationConstants.class
+SHA1-Digest: lDvsH3l3+MXLdzDcZUUL+3UQKhE=
+
+Name: com/aptana/git/core/model/GitExecutable.class
+SHA1-Digest: LeSEGGb4boGrT/8ZLcfA+M0E5F0=
+
+Name: com/aptana/git/core/model/RepositoryRemovedEvent.class
+SHA1-Digest: EkkkDwJSquvfF4+Ju5TFZu682MQ=
+
+Name: com/aptana/git/internal/core/storage/CommitFileRevision$1.class
+SHA1-Digest: axp/kG/eLolDdnq4FX1Oe5VhEm0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: com/aptana/git/core/model/ChangedFile.class
+SHA1-Digest: g/IV37vem8REdrENEfWsjVmIHU8=
+
+Name: com/aptana/git/core/model/IGitRepositoriesListener.class
+SHA1-Digest: w8ujXnA7jl3dSDIe0btCHr1Vyx4=
+
+Name: com/aptana/git/core/model/GitExecutable$2.class
+SHA1-Digest: EZ/Va0u/QMuDaBz+vE4Nla90xSE=
+
+Name: com/aptana/git/core/model/GitIndex.class
+SHA1-Digest: w5nPLYGUlkMSONrM7dgnh74yynw=
+
+Name: com/aptana/git/internal/core/storage/CommitFileRevision$GitTag.c
+ lass
+SHA1-Digest: k0ERsZYRVRO3BTIxo4ioTBSRXTg=
+
+Name: com/aptana/git/core/model/RepositoryAddedEvent.class
+SHA1-Digest: DSjuR9MquiEJ6JfwOZ6viqEsW0Y=
+
+Name: com/aptana/git/core/model/Messages.class
+SHA1-Digest: uLmb3tZe78P5JuLCxWAKPiq5LYo=
+
+Name: com/aptana/git/core/model/PushEvent.class
+SHA1-Digest: bw6tr8xn8aWkNlVb55AsUv2VPpk=
+
+Name: com/aptana/git/core/model/GitRepository$1.class
+SHA1-Digest: RoA0gSRSXSBwPRAxmp+/G5YIw6Q=
+
+Name: com/aptana/git/core/model/GitRef$TYPE.class
+SHA1-Digest: 7gq0Z+fTX6oi6XMHlYPpZCUWMgE=
+
+Name: com/aptana/git/core/GitProjectRefresher.class
+SHA1-Digest: Qo4iCTg8SRseeJ5PmK6oj+CZuaY=
+
+Name: plugin.xml
+SHA1-Digest: gFqEzT3a9V8dSbl76/lVihhx0rE=
+
+Name: com/aptana/git/core/model/GitRepository$BranchNameComparator.cla
+ ss
+SHA1-Digest: kTKVc6oanoBky4K4a9Uv3GE21wA=
+
+Name: com/aptana/git/internal/core/launching/Messages.class
+SHA1-Digest: Wh0cLWRCsD38bX4iaaXCU6fmhak=
+
+Name: com/aptana/git/core/model/GitRepository$4$3.class
+SHA1-Digest: kIn5EKL+FRbAW4wRSqS9l0bUHGo=
+
+Name: META-INF/p2.inf
+SHA1-Digest: AH9uhty7g5VGmc81tjIGllwiwbo=
+
+Name: com/aptana/git/core/model/GitRepository$3$2.class
+SHA1-Digest: meDYYMdqICcXLpRmAajpuco2wOI=
+
+Name: com/aptana/git/core/model/BranchAddedEvent.class
+SHA1-Digest: PodVjSoYKCV+qRoNwnPE8c33vGA=
+
+Name: com/aptana/git/core/model/GitRepository$4.class
+SHA1-Digest: pmHr8iX8tKYb3/AAwJzrNGzsTv0=
+
+Name: com/aptana/git/core/GitResourceListener.class
+SHA1-Digest: t79UfYQPmB+cF4bN7tm7fR3Blig=
+
+Name: com/aptana/git/core/model/GitRepository$3.class
+SHA1-Digest: xlT75tsI08DASh2E8/jP80UW/78=
+
+Name: com/aptana/git/core/model/IndexChangedEvent.class
+SHA1-Digest: ebX5s/2djHwBBxZwMNjFoJsuTPU=
+

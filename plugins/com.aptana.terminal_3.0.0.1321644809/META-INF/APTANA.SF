@@ -1,0 +1,286 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: jT6sNKT+lBG8pwqj2S6lgccyCqY=
+Created-By: 1.6.0_20 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: I5UChrvWGXMoGZ/y7Xt2QI4YlCQ=
+
+Name: com/aptana/terminal/EarlyStartup$3.class
+SHA1-Digest: 3t5K4onALbIo2ny3yqCjDybLOpI=
+
+Name: com/aptana/terminal/preferences/messages.properties
+SHA1-Digest: ms+kzoJz/kBPdSS4ndVdl7AEkj0=
+
+Name: com/aptana/terminal/editor/TerminalElementFactory.class
+SHA1-Digest: rJArATcCFnviRqyQQJXYhdXnvUA=
+
+Name: com/aptana/terminal/internal/emulator/ThemedStyleMap.class
+SHA1-Digest: b0T9l5l4MglOWWJteg+3hWV/jvw=
+
+Name: com/aptana/terminal/internal/hyperlink/URLHyperlinkDetector.clas
+ s
+SHA1-Digest: Y9LYAz6APvG5gr2fV6uqTudpywE=
+
+Name: com/aptana/terminal/internal/configurations/NixBashConfiguration
+ .class
+SHA1-Digest: Ze6E/5ksYAGymKuejcirPYAfld8=
+
+Name: os/linux/x86/redtty
+SHA1-Digest: 8gPvELlMhtqNGOa2byk4y2Ndgi8=
+
+Name: icons/terminal.png
+SHA1-Digest: m6VaJ5EscKMgzQjSlUaKYTNg+mo=
+
+Name: com/aptana/terminal/editor/TerminalEditor$5.class
+SHA1-Digest: qzeEOAXHC03rOjpxGj0b5AyS+ik=
+
+Name: com/aptana/terminal/views/TerminalView$8.class
+SHA1-Digest: eovhfyYcvS9DPywmPxg4LLNV3RI=
+
+Name: com/aptana/terminal/internal/handlers/OpenTerminalHandler.class
+SHA1-Digest: gC3/4dI3hQM1OWFl04s4lRO87Hc=
+
+Name: com/aptana/terminal/editor/TerminalEditor$3.class
+SHA1-Digest: pepoNiCFrNA05PTO9U9L7cr5mig=
+
+Name: schema/processConfigurations.exsd
+SHA1-Digest: KmNUbwWhik4qruNfKVEvnHko8Is=
+
+Name: schema/terminalHyperlinkDetectors.exsd
+SHA1-Digest: 2QsQLPi+jy4Giud8emvXf2j8x/s=
+
+Name: com/aptana/terminal/views/Messages.class
+SHA1-Digest: Qld2W2rryI/NqMi6vv3/GbMkgXo=
+
+Name: com/aptana/terminal/editor/TerminalEditor$4.class
+SHA1-Digest: hzIMj27LJnU/K4LFJccB/fMB0Gw=
+
+Name: com/aptana/terminal/editor/TerminalEditor$2.class
+SHA1-Digest: SGd/4or9T8kjcS6TPqj3OAHPJis=
+
+Name: os/linux/x86_64/redtty
+SHA1-Digest: 8Zlw1ViRQprkR9hM6EJdHEbOq/4=
+
+Name: com/aptana/terminal/EarlyStartup$2.class
+SHA1-Digest: ADLW5lH1L2SeoWdcwW7lWBp0MGA=
+
+Name: com/aptana/terminal/editor/Messages.class
+SHA1-Digest: XQ90TYV8CksIFEyj6iqYwuV17A4=
+
+Name: com/aptana/terminal/editor/messages.properties
+SHA1-Digest: EbkGH64TC36kpKOU7kxO1OKez3o=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: MPAQjz7jlq+kvtyzOSXoW8IIKqI=
+
+Name: com/aptana/terminal/messages.properties
+SHA1-Digest: MzessKTGy64YFF5ekPEr1qc9NK4=
+
+Name: com/aptana/terminal/preferences/IPreferenceConstants.class
+SHA1-Digest: EEjeoeXGlwMFI2GWCfeXQIZz6Uc=
+
+Name: com/aptana/terminal/TerminalPlugin.class
+SHA1-Digest: M4s5lWREBBcyh/vez1o3XyCpaSY=
+
+Name: com/aptana/terminal/preferences/TerminalPreferencePage.class
+SHA1-Digest: oIeH9NgCFWn/8bYTbXozD1xQqy8=
+
+Name: com/aptana/terminal/widget/TerminalComposite$3.class
+SHA1-Digest: iaG8BnD6OoJrsbzOTqQoEzD1SfA=
+
+Name: com/aptana/terminal/views/TerminalView$4.class
+SHA1-Digest: yVXNP4kcvriGhiN24d1OLNN+cf4=
+
+Name: com/aptana/terminal/views/TerminalView$7.class
+SHA1-Digest: Jix1vkhTBRzHDOnwAMiQ96sr55g=
+
+Name: com/aptana/terminal/EarlyStartup.class
+SHA1-Digest: KEjfe3xUsTMviFsHVBStFgLLJaY=
+
+Name: com/aptana/terminal/views/TerminalView$6.class
+SHA1-Digest: C2SCzHGtRVOHDW2P9QaApUMfnqU=
+
+Name: com/aptana/terminal/views/TerminalView$1.class
+SHA1-Digest: m5UTTdR1JkGkt/y3kOY+URDZKi4=
+
+Name: .aptanarc
+SHA1-Digest: X2r1TRYvYlM6pc0YuJHhiFqh3zY=
+
+Name: com/aptana/terminal/editor/TerminalEditor$1.class
+SHA1-Digest: pzqvMhbV/WK0O92sHlmB1r9SdY0=
+
+Name: com/aptana/terminal/editor/TerminalEditor$1$1.class
+SHA1-Digest: nsljQZyWnZC7L7UXvRoi1+HSln4=
+
+Name: license.html
+SHA1-Digest: +LUQmhnpX8ydjMRjapkkFCV2vZw=
+
+Name: com/aptana/terminal/connector/Messages.class
+SHA1-Digest: BzrKfzfrTXj7kH2K57o7JYuChos=
+
+Name: icons/terminal_small_add.png
+SHA1-Digest: xxomYaqDTkqtLMqOlrvqOg//yRI=
+
+Name: com/aptana/terminal/editor/TerminalEditorInput.class
+SHA1-Digest: z+txoQEpLCYT4WPP4AVvC6AZ/wo=
+
+Name: com/aptana/terminal/internal/TerminalCloseHelper.class
+SHA1-Digest: qTBMYDikbW/D3Z4AJGtbaBWTVBE=
+
+Name: com/aptana/terminal/EarlyStartup$1.class
+SHA1-Digest: YZJPRkCiRWIAHh4ptLSh3hhbpnk=
+
+Name: com/aptana/terminal/internal/configurations/AbstractProcessConfi
+ guration.class
+SHA1-Digest: tz/TV0Yjw8UxIjSjZpqy3Nht19Y=
+
+Name: com/aptana/terminal/connector/messages.properties
+SHA1-Digest: XBkPBigOZYfohh5nCK41WGa9xgc=
+
+Name: com/aptana/terminal/internal/emulator/VT100TerminalControl$1.cla
+ ss
+SHA1-Digest: eRhQMbTGqLhReTbg5a3s70gTsHM=
+
+Name: com/aptana/terminal/internal/messages.properties
+SHA1-Digest: lz3aIE4u6zIeAJlSLfxEFnQMF6A=
+
+Name: com/aptana/terminal/internal/configurations/WindowsMingwConfigur
+ ation.class
+SHA1-Digest: 42kLP/Mcg1sqmiSZjExjB0L2p1g=
+
+Name: com/aptana/terminal/editor/TerminalEditor.class
+SHA1-Digest: sijxxBFa3BQc3sYKvCdWuynbl/I=
+
+Name: com/aptana/terminal/internal/emulator/TextCanvas.class
+SHA1-Digest: JuKyb7sjKM7IpbJla83w2OCtKnY=
+
+Name: com/aptana/terminal/preferences/Messages.class
+SHA1-Digest: 8eF0bApc1rUy/ox2xf6UzsdHTfw=
+
+Name: com/aptana/terminal/internal/StreamsProxyOutputStream.class
+SHA1-Digest: 35Csr6VgkwaYTw2qxsU6wQskgYQ=
+
+Name: com/aptana/terminal/views/TerminalView$1$1.class
+SHA1-Digest: WoUMm4TtMB1WQwXtlQ9sR+dEYTQ=
+
+Name: com/aptana/terminal/internal/ProcessLauncher$1.class
+SHA1-Digest: YwEGhneKKTlBv76Tsa0N5Sc/zGg=
+
+Name: com/aptana/terminal/widget/TerminalComposite$1.class
+SHA1-Digest: y7MwxN5PcvJH6AiSVKs5WU9NmcI=
+
+Name: com/aptana/terminal/internal/handlers/Messages.class
+SHA1-Digest: QxR7QlbjSF2YN7bC0K4c1EnBS1o=
+
+Name: os/macosx/redtty
+SHA1-Digest: bSmf8fp1f6rbUPsMlta3cimvYcg=
+
+Name: com/aptana/terminal/internal/ProcessConfigurations.class
+SHA1-Digest: YVTJxLmUq1Cb6HErJdHzZoF/Yc4=
+
+Name: scripting/ruble/terminal.rb
+SHA1-Digest: MLuiHqLO3zNozDcshZLZrUq7cz8=
+
+Name: com/aptana/terminal/views/TerminalView$5.class
+SHA1-Digest: p7SMqHKjMPrBxKCatJghSiDyiDw=
+
+Name: com/aptana/terminal/internal/IProcessListener.class
+SHA1-Digest: ze0d0zdTV4DddwVsgb/ccM3cqeA=
+
+Name: com/aptana/terminal/views/TerminalView$3.class
+SHA1-Digest: PkvV+RuZxx9ki3XExQ7K9NqP30Q=
+
+Name: os/win32/redttyw.exe
+SHA1-Digest: HP1FD8f6dspy2W5dNhp8Cgv6iTQ=
+
+Name: com/aptana/terminal/internal/emulator/VT100TerminalControl$3.cla
+ ss
+SHA1-Digest: P03A/2JLzafpDaVqRsGxsgz0CGI=
+
+Name: com/aptana/terminal/connector/IOutputFilter.class
+SHA1-Digest: x/eAVU8SWzol+xStCJhuf0GkbGM=
+
+Name: com/aptana/terminal/internal/emulator/VT100TerminalControl$2.cla
+ ss
+SHA1-Digest: Glb88WQzyxy/ugqDvopSExIULq8=
+
+Name: icons/terminal_small.png
+SHA1-Digest: qR/NDZqGAmmNPBW9LqRSSdxv5yY=
+
+Name: icons/terminal_add.png
+SHA1-Digest: GbeTfht2UvDXOKYbgn9HQ4IM3+4=
+
+Name: com/aptana/terminal/editor/TerminalEditor$6.class
+SHA1-Digest: OXurdwZNsyPzEdT9d8ZztFenuaE=
+
+Name: com/aptana/terminal/Messages.class
+SHA1-Digest: TnIKCutE5AlvGQO8pxIOqR7zC84=
+
+Name: com/aptana/terminal/views/TerminalView$2.class
+SHA1-Digest: BwlLZLCx8oQyT0vJHpzqJWy/I0E=
+
+Name: com/aptana/terminal/internal/Messages.class
+SHA1-Digest: N+o4wyAPD8wSETnabQj+EhI5QoQ=
+
+Name: com/aptana/terminal/preferences/PreferenceInitializer.class
+SHA1-Digest: UtBV+U9T/ga6P47TNqlzBB+vxYs=
+
+Name: contexts.xml
+SHA1-Digest: 1CUVAGt9ixaLa394rKuNBjr9tF8=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SwPvGXzoqhbu6llulpm8WpBxiUo=
+
+Name: com/aptana/terminal/hyperlink/IHyperlinkDetector.class
+SHA1-Digest: th7fFKtydQTKFIVCva+jnGtqrWI=
+
+Name: os/win32/wintty.dll
+SHA1-Digest: xRXCRr/Hv3xy00yskkranraGytI=
+
+Name: com/aptana/terminal/views/TerminalView.class
+SHA1-Digest: PXRtxUUbpPHiBXecpY100W2rFp8=
+
+Name: com/aptana/terminal/widget/TerminalComposite.class
+SHA1-Digest: GcI0rKEa8V+CgeyReuQpe8A255o=
+
+Name: com/aptana/terminal/internal/handlers/messages.properties
+SHA1-Digest: 24jR/wEi1FOasVGjcG8vI2zZUfs=
+
+Name: com/aptana/terminal/editor/ShowTerminalEditorAction.class
+SHA1-Digest: 8UNWxEJDHshhydGDx0Gx0IV/rmw=
+
+Name: com/aptana/terminal/connector/LocalTerminalOutputListener.class
+SHA1-Digest: yL7u3YgS3HhR0QCwOLIXFLY4KAk=
+
+Name: com/aptana/terminal/internal/emulator/VT100TerminalControl.class
+SHA1-Digest: RqNTg7Maw9URMrDb+5I91Gw/gQA=
+
+Name: com/aptana/terminal/internal/emulator/ThemedTextLineRenderer.cla
+ ss
+SHA1-Digest: YktuV5EpMdYZoz/PuMQOaO7aGvY=
+
+Name: com/aptana/terminal/views/messages.properties
+SHA1-Digest: 7cm6wf+qY0UH2adSR7ROMagSlkk=
+
+Name: plugin.xml
+SHA1-Digest: yb59WOTdVjuorm88tr40g3jDtT4=
+
+Name: com/aptana/terminal/connector/LocalTerminalConnector.class
+SHA1-Digest: zXV1i5ZWxqWtzw2gzi3NqvaDe34=
+
+Name: com/aptana/terminal/internal/ProcessLauncher.class
+SHA1-Digest: /GPy2GMqUY1mjAcQfKJIdp+2dMk=
+
+Name: META-INF/p2.inf
+SHA1-Digest: VdDpgZZBtTPkYa+oPHhwGWeTqpc=
+
+Name: com/aptana/terminal/widget/TerminalComposite$2.class
+SHA1-Digest: fkSFQwvXN9qBD05eDZ2owwwpnKE=
+
+Name: com/aptana/terminal/connector/LocalTerminalConnector$1.class
+SHA1-Digest: n2LZdJzOBquCQrmt8ppknF5Tb8Q=
+
+Name: com/aptana/terminal/IProcessConfiguration.class
+SHA1-Digest: HR802Q/piRpuDngq041LnlwH67k=
+
+Name: com/aptana/terminal/Utils.class
+SHA1-Digest: qQJnkpgY1eYk8PW2X25w2xaI4kA=
+

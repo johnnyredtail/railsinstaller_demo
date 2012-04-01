@@ -1,0 +1,60 @@
+Manifest-Version: 1.0
+Export-Package: org.python.pydev.django_templates,org.python.pydev.dja
+ ngo_templates.common,org.python.pydev.django_templates.completions,or
+ g.python.pydev.django_templates.completions.templates,org.python.pyde
+ v.django_templates.html.editor,org.python.pydev.django_templates.html
+ .outline,org.python.pydev.django_templates.html.parsing,org.python.py
+ dev.django_templates.preferences
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: django-templates.jar
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.jface.text,org.ec
+ lipse.ui,org.eclipse.ui.editors,org.eclipse.ui.views,com.aptana.edito
+ r.common,com.aptana.editor.xml,com.aptana.editor.html,com.aptana.edit
+ or.css;bundle-version="1.0.0",com.aptana.editor.js;bundle-version="1.
+ 0.0",com.aptana.parsing,beaver,com.aptana.theme;bundle-version="1.0.0
+ ",org.python.pydev.core,org.eclipse.ui.workbench.texteditor,org.junit
+ ;bundle-version="3.8.2";resolution:=optional,org.python.pydev;bundle-
+ version="2.4.0.2012020116",com.aptana.editor.html.formatter,com.aptan
+ a.formatter.epl,com.aptana.formatter.ui.epl
+Bundle-Vendor: %providerName
+Bundle-Version: 2.4.0.2012020116
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.python.pydev.django_templates.DjPlugin
+Bundle-SymbolicName: org.python.pydev.django_templates;singleton:=true
+Eclipse-ExtensibleAPI: true
+
+Name: icons/django.gif
+SHA1-Digest: mr4hSE+1Or0y69KPs9Jw9JQGr8w=
+
+Name: templates/default-templates-tags.xml
+SHA1-Digest: f8CtqELfN3H296Kd1ErBzuxlw+E=
+
+Name: django-templates.jar
+SHA1-Digest: ZKrO4KWPJ17TyVgM1WTbBYwdNkY=
+
+Name: icons/django_rev.gif
+SHA1-Digest: SPDTWVn/pMKPNjFnJPo3HPqHQCc=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: plugin.xml
+SHA1-Digest: xWJ6kqsEduQDjYN5Ub1rRpTqkP0=
+
+Name: icons/django_templates.png
+SHA1-Digest: TsntMpyZL26lypua/W2r0oGE3v8=
+
+Name: plugin.properties
+SHA1-Digest: T8Kavw/MipqdWb2dMr9ZMBWWHLs=
+
+Name: icons/element.gif
+SHA1-Digest: 1H/d6hH3sm358Okz/n0pqgLEUQw=
+
+Name: templates/default-templates-filters.xml
+SHA1-Digest: MwzLadfW3pfuKQQ4cENt4jzZKdg=
+
+Name: templates/default-templates.xml
+SHA1-Digest: yIKvFL0wQDoVqHDMpRjB7uhfEQ0=
+

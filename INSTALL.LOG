@@ -1,0 +1,92 @@
+***  Installation Started 07/22/99 13:30  ***
+Title: UltraEdit-32 Text Editor Installation (v6.00)
+Source: A:\UEDIT32I.EXE
+Made Dir: C:\Program Files\ULTRAEDT
+File Copy: C:\Program Files\ULTRAEDT\UEDIT32.EXE
+File Copy: C:\Program Files\ULTRAEDT\UEDOS32.EXE
+File Copy: C:\Program Files\ULTRAEDT\SSCE4332.DLL
+File Copy: C:\Program Files\ULTRAEDT\ue32ctmn.dll
+File Copy: C:\Program Files\ULTRAEDT\FILE_ID.DIZ
+INI New: Created INI
+INI File: C:\WINDOWS\UEDIT32.INI
+INI Sect: Settings
+INI Item: Language File
+INI Val: C:\Program Files\ULTRAEDT\wordfile.txt
+INI File: C:\WINDOWS\UEDIT32.INI
+INI Sect: TagList
+INI Item: TagListFilename
+INI Val: C:\Program Files\ULTRAEDT\taglist.txt
+File Copy: C:\Program Files\ULTRAEDT\UNINSTAL.EXE
+File Copy: C:\Program Files\ULTRAEDT\WORDFILE.TXT
+File Copy: C:\Program Files\ULTRAEDT\TAGLIST.TXT
+File Copy: C:\Program Files\ULTRAEDT\UEDIFF.EXE
+File Copy: C:\Program Files\ULTRAEDT\UEDIT32.HLP
+File Copy: C:\Program Files\ULTRAEDT\AUTOCORR.TLX
+File Copy: C:\Program Files\ULTRAEDT\CONDCORR.TLX
+File Copy: C:\Program Files\ULTRAEDT\Html.tlx
+File Copy: C:\Program Files\ULTRAEDT\ORDER.TXT
+File Copy: C:\Program Files\ULTRAEDT\READ.ME
+RegDB Key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\UltraEdit-32
+RegDB Val: UltraEdit-32 Uninstall
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\UltraEdit-32
+RegDB Val: C:\PROGRA~1\ULTRAEDT\UEDIT32.EXE /UNINSTALL
+RegDB Name: UninstallString
+RegDB Root: 2
+Icon Group: UltraEdit
+Icon Name: UltraEdit-32 Text Editor
+Icon Cmd: C:\PROGRA~1\ULTRAEDT\UEDIT32.EXE
+Icon Group: UltraEdit
+Icon Name: UltraEdit-32 Help
+Icon Cmd: WINHELP.EXE C:\PROGRA~1\ULTRAEDT\UEDIT32.HLP
+Icon Group: UltraEdit
+Icon Name: UltraEdit-32 Read Me
+Icon Cmd: C:\PROGRA~1\ULTRAEDT\UEDIT32.EXE C:\PROGRA~1\ULTRAEDT\READ.ME
+Icon Group: UltraEdit
+Icon Name: UltraEdit-32 Order Form
+Icon Cmd: C:\PROGRA~1\ULTRAEDT\UEDIT32.EXE C:\PROGRA~1\ULTRAEDT\ORDER.TXT
+Icon Group: UltraEdit
+Icon Name: UltraEdit-32 Uninstall
+Icon Cmd: C:\PROGRA~1\ULTRAEDT\UEDIT32.EXE /UNINSTALL
+RegDB Key: UltraEdit-32 Document\shell\open\command
+RegDB Val: "C:\PROGRA~1\ULTRAEDT\UEDIT32.EXE" "%1"
+RegDB Key: UltraEdit-32 Document\shell\open\ddeexec
+RegDB Val: [open("
+RegDB Key: UltraEdit-32 Document\shell\open\ddeexec\Application
+RegDB Val: UEDIT32
+RegDB Key: UltraEdit-32 Document\shell\open\ddeexec\topic
+RegDB Val: System
+RegDB Key: UltraEdit-32 Document\shell\print\command
+RegDB Val: "C:\PROGRA~1\ULTRAEDT\UEDIT32.EXE" /P "%1"
+Shell Link: C:\WINDOWS\Desktop\UltraEdit-32.lnk
+Shell Link: C:\WINDOWS\Start Menu\UltraEdit-32.lnk
+RegDB Key: CLSID\{b5eedee0-c06e-11cf-8c56-444553540000}
+RegDB Val: UltraEdit-32
+RegDB Key: CLSID\{b5eedee0-c06e-11cf-8c56-444553540000}\InProcServer32
+RegDB Val: C:\PROGRA~1\ULTRAEDT\ue32ctmn.dll
+RegDB Key: CLSID\{b5eedee0-c06e-11cf-8c56-444553540000}\InProcServer32
+RegDB Val: Apartment
+RegDB Name: ThreadingModel
+RegDB Key: *\shellex\ContextMenuHandlers\UltraEdit-32
+RegDB Val: {b5eedee0-c06e-11cf-8c56-444553540000}
+***  Installation Started 12/24/2011 9:51  ***
+Title: 
+Source: C:\Users\Johnny\Documents\Sandisk\UE\dictam.exe | 05-15-2011 | 15:31:08 | 285682
+File Copy: C:\Program Files (x86)\ULTRAEDT\ssceam.tlx | 08-20-1996 | 00:00:00 | | 7691 | 32ed7e32
+File Copy: C:\Program Files (x86)\ULTRAEDT\ssceam1.clx | 08-20-1996 | 00:00:00 | | 352348 | 207184b
+***  Installation Started 12/24/2011 10:23  ***
+Title: 
+Source: C:\Users\Johnny\Documents\Sandisk\UE\dictam.exe | 05-15-2011 | 15:31:08 | 285682
+File Overwrite: C:\Program Files (x86)\ULTRAEDT\ssceam.tlx | 08-20-1996 | 00:00:00 | | 7691 | 32ed7e32
+File Overwrite: C:\Program Files (x86)\ULTRAEDT\ssceam1.clx | 08-20-1996 | 00:00:00 | | 352348 | 207184b
+***  Installation Started 12/24/2011 10:44  ***
+Title: 
+Source: C:\Program Files (x86)\ULTRAEDT\dictam.exe | 05-15-2011 | 15:31:08 | 285682
+File Overwrite: C:\Program Files (x86)\ULTRAEDT\ssceam.tlx | 08-20-1996 | 00:00:00 | | 7691 | 32ed7e32
+File Overwrite: C:\Program Files (x86)\ULTRAEDT\ssceam1.clx | 08-20-1996 | 00:00:00 | | 352348 | 207184b
+***  Installation Started 12/24/2011 10:45  ***
+Title: 
+Source: C:\Program Files (x86)\ULTRAEDT\dictam.exe | 05-15-2011 | 15:31:08 | 285682
+File Overwrite: C:\Program Files (x86)\ULTRAEDT\ssceam.tlx | 08-20-1996 | 00:00:00 | | 7691 | 32ed7e32
+File Overwrite: C:\Program Files (x86)\ULTRAEDT\ssceam1.clx | 08-20-1996 | 00:00:00 | | 352348 | 207184b

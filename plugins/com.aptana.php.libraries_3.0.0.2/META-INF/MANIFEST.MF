@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Export-Package: gnu.trove,gnu.trove.impl.hash,gnu.trove.map.hash,gnu.t
+ rove.procedure,gnu.trove.set.hash,java_cup,java_cup.runtime
+Bundle-Vendor: %providerName
+Bundle-ClassPath: java_cup.jar,trove-3.0.0rc1.jar
+Bundle-Version: 3.0.0.2
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.aptana.php.libraries
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+Name: trove-license.txt
+SHA1-Digest: eUEooqMFTcbO7hi05MKud05Qr88=
+
+Name: trove-3.0.0rc1.jar
+SHA1-Digest: 93J9h7N+9gFYqLEWxo91ixyKjhM=
+
+Name: javacup_license.txt
+SHA1-Digest: Fa1aQ1C/VYM8taXL6pLeq1drTV4=
+
+Name: lgpl-3.0.txt
+SHA1-Digest: 59Vj9Sv1KV5tuh1nrCPp9qFg+rk=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: about.html
+SHA1-Digest: STnwGvb8n9PjncwUasGBoUvJW8w=
+
+Name: plugin.properties
+SHA1-Digest: u5SncvpbsC+Ux/skaCQFIxZaA+0=
+
+Name: java_cup.jar
+SHA1-Digest: NwHMaZaddms+dMC9ojp5KW02HRM=
+

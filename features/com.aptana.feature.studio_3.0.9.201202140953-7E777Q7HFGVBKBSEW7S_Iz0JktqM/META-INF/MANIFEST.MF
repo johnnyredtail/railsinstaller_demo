@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_20 (Sun Microsystems Inc.)
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: META-INF/p2.inf
+SHA1-Digest: S6PqI2UhgtWqq0Ak2gfFlBIZwYg=
+
+Name: license.html
+SHA1-Digest: 2JkYDfFS72NtZ2hBQyp4qw6OoX4=
+
+Name: feature.xml
+SHA1-Digest: BSWN03hNoLOkzPcrLuU/J5XSc7E=
+
+Name: feature.properties
+SHA1-Digest: 76qDL7iqYyFvlVIJMIZ0tpPFpdg=
+

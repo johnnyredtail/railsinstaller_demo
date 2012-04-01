@@ -1,0 +1,53 @@
+Manifest-Version: 1.0
+Export-Package: com.enterprisedt,com.enterprisedt.cryptix,com.enterpri
+ sedt.cryptix.asn1.encoding,com.enterprisedt.cryptix.asn1.lang,com.ent
+ erprisedt.cryptix.provider,com.enterprisedt.cryptix.provider.cipher,c
+ om.enterprisedt.cryptix.provider.dsa,com.enterprisedt.cryptix.provide
+ r.elgamal,com.enterprisedt.cryptix.provider.key,com.enterprisedt.cryp
+ tix.provider.mac,com.enterprisedt.cryptix.provider.md,com.enterprised
+ t.cryptix.provider.mode,com.enterprisedt.cryptix.provider.padding,com
+ .enterprisedt.cryptix.provider.rsa,com.enterprisedt.cryptix.tools,com
+ .enterprisedt.cryptix.util.checksum,com.enterprisedt.cryptix.util.cor
+ e,com.enterprisedt.cryptix.util.io,com.enterprisedt.cryptix.util.math
+ ,com.enterprisedt.cryptix.util.mime,com.enterprisedt.net.ftp,com.ente
+ rprisedt.net.ftp.async,com.enterprisedt.net.ftp.async.internal,com.en
+ terprisedt.net.ftp.internal,com.enterprisedt.net.ftp.pro,com.enterpri
+ sedt.net.ftp.script,com.enterprisedt.net.ftp.ssh,com.enterprisedt.net
+ .ftp.ssl,com.enterprisedt.net.j2ssh,com.enterprisedt.net.j2ssh.authen
+ tication,com.enterprisedt.net.j2ssh.configuration,com.enterprisedt.ne
+ t.j2ssh.connection,com.enterprisedt.net.j2ssh.io,com.enterprisedt.net
+ .j2ssh.openssh,com.enterprisedt.net.j2ssh.session,com.enterprisedt.ne
+ t.j2ssh.sftp,com.enterprisedt.net.j2ssh.subsystem,com.enterprisedt.ne
+ t.j2ssh.transport,com.enterprisedt.net.j2ssh.transport.cipher,com.ent
+ erprisedt.net.j2ssh.transport.compression,com.enterprisedt.net.j2ssh.
+ transport.hmac,com.enterprisedt.net.j2ssh.transport.kex,com.enterpris
+ edt.net.j2ssh.transport.publickey,com.enterprisedt.net.j2ssh.transpor
+ t.publickey.dsa,com.enterprisedt.net.j2ssh.transport.publickey.rsa,co
+ m.enterprisedt.net.j2ssh.util,com.enterprisedt.net.puretls,com.enterp
+ risedt.net.puretls.cert,com.enterprisedt.net.puretls.crypto,com.enter
+ prisedt.net.puretls.sslg,com.enterprisedt.net.puretls.util,com.enterp
+ risedt.tools.ftp,com.enterprisedt.util,com.enterprisedt.util.compress
+ ion.jzlib,com.enterprisedt.util.debug,com.enterprisedt.util.getopt,co
+ m.enterprisedt.util.license,com.enterprisedt.util.proxy,xjava.lang,xj
+ ava.security,xjava.security.interfaces,xnetscape.security
+Bundle-Vendor: %providerName
+Bundle-ClassPath: edtftpj-pro.jar,license.jar
+Bundle-Version: 2.0.2.1317770565
+Bundle-Name: %pluginName
+Bundle-Localization: plugin
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.aptana.ide.libraries.subscription
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+Name: license.jar
+SHA1-Digest: JowjufzTYAhyr2l1b9kleqg1jjw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: plugin.properties
+SHA1-Digest: ormMvdM+Utz/UbE6OO//Yiia5kE=
+
+Name: edtftpj-pro.jar
+SHA1-Digest: k+Sdn/4BZqdW7VST/seGd6cxbIE=
+

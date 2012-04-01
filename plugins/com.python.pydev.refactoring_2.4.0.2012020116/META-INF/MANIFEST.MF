@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.ui,org.eclipse.ui.editors,org.eclipse.ui.i
+ de,org.eclipse.ui.workbench.texteditor,org.eclipse.core.runtime,org.e
+ clipse.jface.text,org.python.pydev;bundle-version="2.4.0.2012020116",
+ com.python.pydev,org.junit;bundle-version="[3.8.0,3.9.9]";resolution:
+ =optional,org.eclipse.search,org.python.pydev.ast,org.python.pydev.co
+ re,org.python.pydev.parser,org.eclipse.core.resources,com.python.pyde
+ v.analysis,org.eclipse.ltk.core.refactoring,org.eclipse.ltk.ui.refact
+ oring,org.eclipse.jdt.core;resolution:=optional,org.eclipse.jdt.ui;re
+ solution:=optional,org.python.pydev.refactoring;bundle-version="0.9.7
+ .1"
+Export-Package: com.python.pydev.refactoring.actions,com.python.pydev.
+ refactoring.changes,com.python.pydev.refactoring.hyperlink,com.python
+ .pydev.refactoring.markoccurrences,com.python.pydev.refactoring.refac
+ torer,com.python.pydev.refactoring.refactorer.refactorings.rename,com
+ .python.pydev.refactoring.refactorer.refactorings.renamelocal,com.pyt
+ hon.pydev.refactoring.refactorer.search,com.python.pydev.refactoring.
+ refactorer.search.copied,com.python.pydev.refactoring.search,com.pyth
+ on.pydev.refactoring.tdd,com.python.pydev.refactoring.ui,com.python.p
+ ydev.refactoring.ui.findreplace,com.python.pydev.refactoring.wizards,
+ com.python.pydev.refactoring.wizards.rename,com.python.pydev.refactor
+ ing.wizards.rename.visitors
+Bundle-Vendor: Aptana
+Eclipse-LazyStart: true
+Bundle-ClassPath: refactoring.jar
+Bundle-Version: 2.4.0.2012020116
+Bundle-Name: Refactoring Plug-in
+Bundle-Localization: plugin
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.python.pydev.refactoring.RefactoringPlugin
+Bundle-SymbolicName: com.python.pydev.refactoring; singleton:=true
+
+Name: refactoring.jar
+SHA1-Digest: NnfHM/mUgQ2LTFBtUQR1vbDiyPA=
+
+Name: LICENSE.TXT
+SHA1-Digest: p+9tB+uCL9D+iYG9D8zDHITgqgU=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: plugin.xml
+SHA1-Digest: /93LQ7XbCH8x+OcYzU494HY3P0o=
+
+Name: plugin.properties
+SHA1-Digest: k3YFYgyxeGpsheAWvZE09comTK0=
+

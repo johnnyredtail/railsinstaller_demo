@@ -1,0 +1,39 @@
+Manifest-Version: 1.0
+Require-Bundle: org.eclipse.core.runtime
+Bundle-Vendor: %Bundle-Vendor
+Bundle-ActivationPolicy: lazy
+Bundle-Version: 3.0.0.1312318673
+Eclipse-PlatformFilter: (osgi.os=win32)
+Bundle-Name: %Bundle-Name
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.aptana.portablegit.win32.PortableGitPlugin
+Bundle-SymbolicName: com.aptana.portablegit.win32;singleton:=true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+
+Name: os/win32/7za-license.txt
+SHA1-Digest: y5z7NHu4hPLUasltzCeZSpMfsC4=
+
+Name: os/win32/7za.exe
+SHA1-Digest: QVTdpKHipe0UMD3D029EiVP/bTM=
+
+Name: com/aptana/portablegit/win32/PortableGitPlugin.class
+SHA1-Digest: CH5EJ0f6yA5+tcKMF4t8Llc55N0=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: A4BKAMDFix1v54xrscUJPa0vkh0=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: license.html
+SHA1-Digest: 2JkYDfFS72NtZ2hBQyp4qw6OoX4=
+
+Name: os/win32/PortableGit-1.7.3.1-preview20101002.7z
+SHA1-Digest: HOb2Ao/hQfX6nUb8srzTTZ8MSNg=
+
+Name: com/aptana/portablegit/win32/Extractor.class
+SHA1-Digest: vZNS3xikXplcsBi4kuL5dexCZZU=
+
+Name: os/win32/7za-copying.txt
+SHA1-Digest: WZ9556v60cUZxkCOrHqPVvknRpw=
+

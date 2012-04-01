@@ -1,0 +1,589 @@
+!!com.aptana.scripting.model.BundleElement
+author: Christopher Williams
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children:
+    - children: &id001 []
+      commandName: Bigger
+      customProperties: null
+      displayName: Bigger
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Smaller
+      customProperties: null
+      displayName: Smaller
+      path: bundle.rb
+      scope: null
+    commandName: Font
+    customProperties: null
+    displayName: Font
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: Convert Character / Selection to Hex
+      customProperties: null
+      displayName: Convert Character / Selection to Hex
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Remove Trailing Spaces in Document / Selection
+      customProperties: null
+      displayName: Remove Trailing Spaces in Document / Selection
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Remove Unprintable Characters in Document / Selection
+      customProperties: null
+      displayName: Remove Unprintable Characters in Document / Selection
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Transliterate Word / Selection to ASCII
+      customProperties: null
+      displayName: Transliterate Word / Selection to ASCII
+      path: bundle.rb
+      scope: null
+    commandName: Converting / Stripping
+    customProperties: null
+    displayName: Converting / Stripping
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: AES Encrypt Document / Selection With Password...
+      customProperties: null
+      displayName: AES Encrypt Document / Selection With Password...
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: AES Decrypt Document / Selection With Password...
+      customProperties: null
+      displayName: AES Decrypt Document / Selection With Password...
+      path: bundle.rb
+      scope: null
+    commandName: Encryption
+    customProperties: null
+    displayName: Encryption
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: Distill Document / Selection
+      customProperties: null
+      displayName: Distill Document / Selection
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Copy Matching Lines into New Document
+      customProperties: null
+      displayName: Copy Matching Lines into New Document
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Copy Non-Matching Lines into New Document
+      customProperties: null
+      displayName: Copy Non-Matching Lines into New Document
+      path: bundle.rb
+      scope: null
+    commandName: Filtering
+    customProperties: null
+    displayName: Filtering
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: Sort Lines in Document / Selection
+      customProperties: null
+      displayName: Sort Lines in Document / Selection
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Sort Lines & Remove Duplicates
+      customProperties: null
+      displayName: Sort Lines & Remove Duplicates
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: '-'
+      customProperties: null
+      displayName: '-'
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Randomize Lines in Document / Selection
+      customProperties: null
+      displayName: Randomize Lines in Document / Selection
+      path: bundle.rb
+      scope: null
+    commandName: Sorting
+    customProperties: null
+    displayName: Sorting
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Delete to Beginning of Line
+    customProperties: null
+    displayName: Delete to Beginning of Line
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Duplicate Line / Selection
+    customProperties: null
+    displayName: Duplicate Line / Selection
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Join Lines
+    customProperties: null
+    displayName: Join Lines
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Execute Selection/Line Inserting Results
+    customProperties: null
+    displayName: Execute Selection/Line Inserting Results
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Add Line Numbers to Document / Selection
+    customProperties: null
+    displayName: Add Line Numbers to Document / Selection
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Statistics for Document / Selection (Word Count)
+    customProperties: null
+    displayName: Statistics for Document / Selection (Word Count)
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Copyright Notice
+    customProperties: null
+    displayName: Copyright Notice
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Current Date - YYYY-MM-DD
+    customProperties: null
+    displayName: Current Date - YYYY-MM-DD
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Lorem ipsum
+    customProperties: null
+    displayName: Lorem ipsum
+    path: bundle.rb
+    scope: null
+  commandName: Text
+  customProperties: null
+  displayName: Text
+  path: bundle.rb
+  scope: null
+- !!com.aptana.scripting.model.SmartTypingPairsElement
+  customProperties: null
+  displayName: smart_typing_pairs-626d80da-7712-48b1-a2e6-dbdeaf9bc856
+  pairs: ['"', '"', (, ), '{', '}', '[', ']']
+  path: bundle.rb
+  scope: ''
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Transliterate Word / Selection to ASCII
+  input: [selection, word]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\convert_to_ascii.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Convert Character / Selection to Hex
+  input: [selection, right_character]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+X]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\convert_to_hex.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Copy Matching Lines into New Document
+  input: [document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: create_new_document
+  path: commands\copy_matching_lines_into_new_document.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Copy Non-Matching Lines into New Document
+  input: [document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: create_new_document
+  path: commands\copy_non-matching_lines_into_new_document.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: AES Decrypt Document / Selection With Password...
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+SHIFT+COMMAND+E]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\decrypt_selection.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Delete to Beginning of Line
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [COMMAND+BACKSPACE]
+  outputPath: null
+  outputType: discard
+  path: commands\delete_to_beginning_of_line.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Distill Document / Selection
+  input: [document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\distill_document_selection.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Duplicate Line / Selection
+  input: [selection, none]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+D]
+  outputPath: null
+  outputType: insert_as_text
+  path: commands\duplicate_line.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: AES Encrypt Document / Selection With Password...
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+SHIFT+COMMAND+E]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\encrypt_selection.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Add Line Numbers to Document / Selection
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\enumerate_lines.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Execute Selection/Line Inserting Results
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CTRL+R]
+  outputPath: null
+  outputType: insert_as_text
+  path: commands\execute_and_insert.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Smaller
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [M1+-]
+  outputPath: null
+  outputType: discard
+  path: commands\font_decrease.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Bigger
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [M1+M2+=]
+  outputPath: null
+  outputType: discard
+  path: commands\font_increase.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Join Lines
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+J]
+  outputPath: null
+  outputType: discard
+  path: commands\join_lines.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Move to EOL and Insert "."
+  input: [line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [OPTION+COMMAND+ENTER]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\move_to_eol_and_insert_period.rb
+  runType: current_thread
+  scope: text
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Move to EOL and Insert "." + LF
+  input: [line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [SHIFT+COMMAND+ENTER]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\move_to_eol_and_insert_period_and_lf.rb
+  runType: current_thread
+  scope: text
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Randomize Lines in Document / Selection
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\randomize_lines_in_document_selection.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Sort Lines in Document / Selection
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\sort.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Sort Lines & Remove Duplicates
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\sort_uniq.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Speak Document / Selection
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\speak_document_selection.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Remove Unprintable Characters in Document / Selection
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\strip_non-printables.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Remove Trailing Spaces in Document / Selection
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\strip_trailing_spaces.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Statistics for Document / Selection (Word Count)
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+N]
+  outputPath: null
+  outputType: show_as_tooltip
+  path: commands\word_count.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [c)]
+  displayName: Copyright Notice
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties:
+    prefix_values: [isoD]
+  displayName: Current Date - YYYY-MM-DD
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.SnippetElement
+  async: false
+  customProperties:
+    prefix_values: [lorem]
+  displayName: Lorem ipsum
+  expansion: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+copyright: Copyright 2010 Aptana Inc. Distributed under the MIT license.
+customProperties: null
+decreaseIndentMarkers: &id002 {}
+description: 'A port of the TextMate bundle.
+
+
+  The text bundle has a lot of support for plain text and is a requisite for working
+  with text.
+
+  '
+displayName: Text
+fileTypeRegistry: *id002
+fileTypes: *id001
+foldingStartMarkers: *id002
+foldingStopMarkers: *id002
+increaseIndentMarkers: *id002
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: git://github.com/aptana/text.ruble.git
+visible: true

@@ -1,0 +1,280 @@
+Manifest-Version: 1.0
+Export-Package: com.aptana.json,com.aptana.parsing,com.aptana.parsing.
+ ast,com.aptana.parsing.lexer,com.aptana.parsing.xpath,com.aptana.sax,
+ org.jaxen
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: libs/jaxen-1.1.2.jar,.
+Bundle-Name: %pluginName
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Require-Bundle: org.eclipse.core.runtime,beaver;visibility:=reexport,c
+ om.aptana.core,json.simple
+Bundle-Vendor: %providerName
+Bundle-Version: 3.0.0.1319578629
+Eclipse-BuddyPolicy: dependent
+Bundle-ManifestVersion: 2
+Bundle-Activator: com.aptana.parsing.ParsingPlugin
+Bundle-SymbolicName: com.aptana.parsing;singleton:=true
+Eclipse-ExtensibleAPI: true
+
+Name: com/aptana/parsing/ast/ParseNodeAttribute.class
+SHA1-Digest: Jb4E1QHRU4o+VadPQLLPahzcmzM=
+
+Name: com/aptana/parsing/IParseState.class
+SHA1-Digest: UcQ/PWybAY3xkk3mfUGrBEoHMII=
+
+Name: com/aptana/parsing/ast/IParseRootNode.class
+SHA1-Digest: HIa9KHEYe9Qm/eD3F8TU43TCabo=
+
+Name: com/aptana/json/SchemaBuilder.class
+SHA1-Digest: L+vRoLD60TqREbBTWb4N1tw4aHY=
+
+Name: com/aptana/parsing/Messages.class
+SHA1-Digest: B0hJ1Dzd6VX5k2Ezy3E9uJ6HYIk=
+
+Name: com/aptana/json/SchemaArray.class
+SHA1-Digest: 2Zr9I1ObVW1BJREOanVvVtJldiE=
+
+Name: com/aptana/parsing/ast/ParseNode$NameNode.class
+SHA1-Digest: JNkOYamB5n3DvCeow0OZQeXujLw=
+
+Name: com/aptana/parsing/xpath/ParseNodeNavigator$1.class
+SHA1-Digest: OZgwbrQIYNdXbXdnY/ivDA/aYKE=
+
+Name: com/aptana/parsing/ast/ParseError.class
+SHA1-Digest: 4uZjL0BlyF/76XRcIrwpjjSyUKo=
+
+Name: com/aptana/json/SchemaHandler$PropertyName.class
+SHA1-Digest: QN4c2ZHqXcmeFdOtEKm72BDpHFA=
+
+Name: com/aptana/json/messages.properties
+SHA1-Digest: NyXj+JX79GOOsq2GMO/glY7WJ7U=
+
+Name: com/aptana/sax/SchemaFreeformElement.class
+SHA1-Digest: aKo9ImiJX9FSP9TF3yn1BpMrq8U=
+
+Name: com/aptana/sax/messages.properties
+SHA1-Digest: JHndibdUx8coPjp5qvY/L002W3E=
+
+Name: com/aptana/parsing/ast/IParseNodeAttribute.class
+SHA1-Digest: OD+glgOv1efHL0qvPe3HyLyENOs=
+
+Name: com/aptana/parsing/lexer/IRange.class
+SHA1-Digest: GTut6aRUQWVphYOPySMJeE1PoGY=
+
+Name: com/aptana/json/IContextHandler.class
+SHA1-Digest: Pd/Rqt0BpEcYNPUtV14/vd8zVug=
+
+Name: libs/jaxen-1.1.2-src.zip
+SHA1-Digest: lNqCg8jEo36ywgobYyK9e5jCE+0=
+
+Name: com/aptana/json/Schema.class
+SHA1-Digest: HMpYo0TAmYMdMkQtkdA53QCHvY8=
+
+Name: com/aptana/json/ISchemaContext.class
+SHA1-Digest: oM+WhXZmMl+g1eqteeavdDApyyA=
+
+Name: com/aptana/json/SchemaPrimitive.class
+SHA1-Digest: tYTN02+uUGHeXNmzfyAuSypFxrs=
+
+Name: com/aptana/parsing/ast/Messages.class
+SHA1-Digest: Jqz5DnIaz0gxEyGs+EZoE6boo8c=
+
+Name: com/aptana/json/SchemaObject$ObjectState.class
+SHA1-Digest: uNwY7QHWpXmqqRccqHvt/kCE87w=
+
+Name: com/aptana/parsing/IParserPool.class
+SHA1-Digest: ZKtfLW0qYMuf5zssNnhabC+lLH8=
+
+Name: com/aptana/sax/ISchemaElement.class
+SHA1-Digest: sCYsqpe6oqDtPjoBfkG3z3jyRVc=
+
+Name: com/aptana/parsing/ParserPoolFactory$1.class
+SHA1-Digest: Z3MVAtPwlJkqtKhPY9LY/P5BfWA=
+
+Name: com/aptana/json/SchemaHandler$TypeName.class
+SHA1-Digest: uRhpX9SzM0rSwSfjqbBihed8XKk=
+
+Name: com/aptana/sax/SchemaInitializationException.class
+SHA1-Digest: gby8L93KzPvLONwzr+bzBBkN22Q=
+
+Name: com/aptana/parsing/ParsingPlugin.class
+SHA1-Digest: KTU50Gc1rQp5vQvCoglCNnXvZxE=
+
+Name: com/aptana/parsing/IParser.class
+SHA1-Digest: lNtWiQPham4ShMIESLD561zXEsc=
+
+Name: com/aptana/sax/AttributeUsage.class
+SHA1-Digest: F+ZBQHHrUtV+hbUzJmycazwBoos=
+
+Name: com/aptana/parsing/ast/ParseRootNode.class
+SHA1-Digest: QskaAOTW1rnH1lj2i/8AvjH+VZw=
+
+Name: com/aptana/sax/SchemaBuilder.class
+SHA1-Digest: 9GY00A8sOhYhn0jMchg/PoA8kjM=
+
+Name: com/aptana/json/SchemaBoolean.class
+SHA1-Digest: fmfDLGyEkzLjQ3yazBNkXqNuelg=
+
+Name: com/aptana/sax/IValidatingReaderLogger.class
+SHA1-Digest: N5aSuI6VWwZklRMFdIRlAPNdqgE=
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: 6wZAqBn/x1Cp3HQRls6KJfyQKJc=
+
+Name: com/aptana/sax/SchemaElement.class
+SHA1-Digest: uHIxJ1ptQj/fg8R9J42IZI4KkVk=
+
+Name: com/aptana/parsing/xpath/ParseNodeAttributeIterator.class
+SHA1-Digest: DGGuHU8prUJ4Rf3dKO1feAKk4fw=
+
+Name: com/aptana/sax/Schema.class
+SHA1-Digest: Q97tXdQRsFvI8HXyxTHmDxenSyc=
+
+Name: schema/parser.exsd
+SHA1-Digest: T18+Dd46s550sHBUvKtgcTEJkNg=
+
+Name: com/aptana/json/SchemaProperty.class
+SHA1-Digest: jVBCzGbtzWn4XB3ABchKNzeNXc4=
+
+Name: com/aptana/json/SchemaEventType.class
+SHA1-Digest: 5Jb3VIYQyYvlUQ5M0WJCcahrKSs=
+
+Name: com/aptana/parsing/ast/IParseError.class
+SHA1-Digest: R4Ki7UKaaBhGdjf4+fv9WwfjnWk=
+
+Name: com/aptana/parsing/xpath/ParseNodeXPath.class
+SHA1-Digest: wAtpeJWIz53NungR+flQqLuZQ8I=
+
+Name: com/aptana/json/SchemaNumber.class
+SHA1-Digest: XzSC2exjBp2uP8NfDsUgo6qUGp8=
+
+Name: com/aptana/json/Messages.class
+SHA1-Digest: a77BxQVoZqKvQgYDCepG8zzP3Lo=
+
+Name: com/aptana/json/SchemaContext.class
+SHA1-Digest: c/ZqTgJGsi8ujuwjxZGk4GpV0c8=
+
+Name: com/aptana/parsing/ParserPoolFactory.class
+SHA1-Digest: AEHQiDCuOBQY+X1dujOVdr6lZlE=
+
+Name: com/aptana/json/IState.class
+SHA1-Digest: g31Q2ClpU9MwMK1eMOqRT1plIlE=
+
+Name: com/aptana/parsing/InsertionRecoveryStrategy.class
+SHA1-Digest: n0HhMbQOjEHknjhi4tf5jF33apo=
+
+Name: com/aptana/parsing/ast/IParseNode.class
+SHA1-Digest: UtgtQYwxrW9AD65Aq+M5SxDIVfk=
+
+Name: license.html
+SHA1-Digest: 2JkYDfFS72NtZ2hBQyp4qw6OoX4=
+
+Name: com/aptana/internal/parsing/ParserPool.class
+SHA1-Digest: 0P1H/EDekLj6kfPt03eoAHQ6UIY=
+
+Name: com/aptana/parsing/lexer/ILexeme.class
+SHA1-Digest: VBwOREwSJcKDwVz4RBYThYqa2MI=
+
+Name: com/aptana/parsing/ast/ILanguageNode.class
+SHA1-Digest: 87NXrOzzWdi6VA23KiYxSOufBjI=
+
+Name: com/aptana/parsing/xpath/ParseNodeNavigator.class
+SHA1-Digest: gH60Lmz2VuqDWy5LphX4ahaCXHM=
+
+Name: com/aptana/parsing/ParseState.class
+SHA1-Digest: TRlQS2Zy2R+TIHWFyb88wQH70/4=
+
+Name: com/aptana/parsing/lexer/Range.class
+SHA1-Digest: R294+cUsIlMUhjIbPaEGbFVP6mc=
+
+Name: com/aptana/json/SchemaString.class
+SHA1-Digest: /DDxjtxGenvZqGhzOjYbGvWO+yY=
+
+Name: com/aptana/json/SchemaReader.class
+SHA1-Digest: 8qIRZBUdyA+BFQgyvR+6p2agWc4=
+
+Name: com/aptana/parsing/ast/ParseNode.class
+SHA1-Digest: BNKOUMWrYG73Ro2P6oatK6YTFsU=
+
+Name: com/aptana/parsing/IDebugScopes.class
+SHA1-Digest: Sqr0B7QyQ75vr4eDrqh9oOdJX/Q=
+
+Name: com/aptana/parsing/ast/INameNode.class
+SHA1-Digest: dLgmHxsiJJjOEFVQIC7KPFHtyhw=
+
+Name: libs/jaxen-1.1.2.jar
+SHA1-Digest: TnlCgud4rWgtoTWi4Pf9i6d0QAE=
+
+Name: com/aptana/parsing/InsertionRecoveryStrategy$CandidateToken.clas
+ s
+SHA1-Digest: No4R/jyt11me0M1W8J09ocMfzWQ=
+
+Name: com/aptana/parsing/lexer/ILexemeModel.class
+SHA1-Digest: gmUgS+FI6itjUCLqNGcCdPUxFHQ=
+
+Name: com/aptana/json/SchemaArray$ArrayState.class
+SHA1-Digest: 2fDC/GuZhx4kVwGmU8gDepvgiRM=
+
+Name: com/aptana/json/SchemaObject.class
+SHA1-Digest: EwtHMowTsKLg5zHjTMVtZA9T8e0=
+
+Name: com/aptana/json/IPropertyContainer.class
+SHA1-Digest: pKXvQjUrcXToqTnFCavZhVx+fw8=
+
+Name: com/aptana/parsing/xpath/ParseNodeIterator.class
+SHA1-Digest: CeFJu+/Oo6uCA4MVXA3hGEHQTrQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: com/aptana/parsing/messages.properties
+SHA1-Digest: NhHmZfCBmT/Z8dagmWZzfMxTQEM=
+
+Name: com/aptana/sax/ValidatingReader.class
+SHA1-Digest: Mbk6bifGrQ/x8BCHY6AHXJ6hQPk=
+
+Name: com/aptana/parsing/ast/ParseNode$1.class
+SHA1-Digest: JLEe24M2fS92s+Q9thELCNimxcQ=
+
+Name: com/aptana/parsing/ast/IParseError$Severity.class
+SHA1-Digest: wsuVidPuteGIhRsKhrjiM0bZj1g=
+
+Name: com/aptana/parsing/xpath/ParseNodeNavigator$3.class
+SHA1-Digest: bJoUrcOm9pcPih9aFTiihssnT7g=
+
+Name: com/aptana/json/SchemaHandler.class
+SHA1-Digest: fteCGZzNC5V+/3DEwHqyl0P3VkY=
+
+Name: com/aptana/sax/InvalidTransitionException.class
+SHA1-Digest: ZI/bDlxJQzgk+fPhKhGGcnFLW20=
+
+Name: com/aptana/json/SchemaTypeGroup.class
+SHA1-Digest: 4FZNYeuX6ZW0KGITIwH95vpQwU4=
+
+Name: com/aptana/parsing/ast/messages.properties
+SHA1-Digest: kRWLfYio19RCFi7pkAMMc8+ZJhE=
+
+Name: plugin.xml
+SHA1-Digest: zy8b/2a4dU2VoXV5TYLhPmbsW4U=
+
+Name: com/aptana/json/SchemaNull.class
+SHA1-Digest: ITsZDbQGis/K+g6SJNLQTpfka3U=
+
+Name: com/aptana/json/Schema$SchemaState.class
+SHA1-Digest: jXrHCQICGNOYoInmhnSpD+qLo0o=
+
+Name: com/aptana/parsing/lexer/Lexeme.class
+SHA1-Digest: AcQXBzsNGL+jdkKCBM7kR1tM4/k=
+
+Name: com/aptana/sax/Messages.class
+SHA1-Digest: rcJMBtvZzBZQ2TWdfuDwpEuwIYM=
+
+Name: com/aptana/parsing/IRecoveryStrategy.class
+SHA1-Digest: eVFFPPKVfZcSH612og6XPbY0hOM=
+
+Name: com/aptana/parsing/xpath/ParseNodeNavigator$2.class
+SHA1-Digest: csSfxXZUouajklRnZuSrd8Q//nI=
+
+Name: com/aptana/parsing/lexer/ITypePredicate.class
+SHA1-Digest: Gg0NaGVjssmQd4B1FhOf7LuTrp4=
+

@@ -1,0 +1,20 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: 55iyANdCRnZomxXxBrwe7zMGhCs=
+Created-By: 1.6.0_20 (Sun Microsystems Inc.)
+SHA1-Digest-Manifest: BlXcOa2LvtDUr7sEfXuurZdr9QE=
+
+Name: schema/pydev_parser_observer.exsd
+SHA1-Digest: zNBFFHjy6kAKqKQxzs15YzbcKF8=
+
+Name: LICENSE.txt
+SHA1-Digest: q6BYIYOKqW7zbviW1rH/+OQQRjE=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SwPvGXzoqhbu6llulpm8WpBxiUo=
+
+Name: plugin.xml
+SHA1-Digest: jlkJZDYV+5JDl8nsbMfx6o/soU4=
+
+Name: parser.jar
+SHA1-Digest: zZEB+mhzELUdXA4eoq9vyrgdvvI=
+

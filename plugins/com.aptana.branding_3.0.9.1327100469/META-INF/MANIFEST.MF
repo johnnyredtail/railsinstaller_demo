@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Bundle-Version: 3.0.9.1327100469
+Bundle-Name: %pluginName
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.aptana.branding
+
+Name: OSGI-INF/l10n/bundle.properties
+SHA1-Digest: +9ZF8NxFQdrjWQbpQlIYpsR7dyw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: about.properties
+SHA1-Digest: en6iexPmf5k7kPIyHpTsT7k8P0A=
+
+Name: license.html
+SHA1-Digest: 2JkYDfFS72NtZ2hBQyp4qw6OoX4=
+
+Name: window3232.png
+SHA1-Digest: cVmIFduPv4O2OfgDKcadBajsBZY=
+
+Name: studio16.gif
+SHA1-Digest: O2GBkg612VQSoaTKerVe8YYaY4M=
+
+Name: studio32.gif
+SHA1-Digest: P6JOFwb3C6s1BVgGsWH+wknt5Vo=
+
+Name: window1616.png
+SHA1-Digest: GtJYtX50FckDwqIhPjbNTDG5G+E=
+
+Name: about.ini
+SHA1-Digest: RWUMWRf/tYrZS9sxDSyuhZi0KL0=
+
+Name: about.mappings
+SHA1-Digest: NyW32SjN47XOdVE9gYf6C7o+oOY=
+

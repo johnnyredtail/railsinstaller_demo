@@ -1,0 +1,256 @@
+!!com.aptana.scripting.model.BundleElement
+author: null
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children: &id001 []
+    commandName: Deploy App
+    customProperties: null
+    displayName: Deploy App
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Open SSH Session
+    customProperties: null
+    displayName: Open SSH Session
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: List Environments
+      customProperties: null
+      displayName: List Environments
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Retrieve Logs
+      customProperties: null
+      displayName: Retrieve Logs
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Rebuild Environment
+      customProperties: null
+      displayName: Rebuild Environment
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Rollback App
+      customProperties: null
+      displayName: Rollback App
+      path: bundle.rb
+      scope: null
+    commandName: Deployment
+    customProperties: null
+    displayName: Deployment
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: Apply Recipes
+      customProperties: null
+      displayName: Apply Recipes
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Upload Recipes
+      customProperties: null
+      displayName: Upload Recipes
+      path: bundle.rb
+      scope: null
+    commandName: Recipes
+    customProperties: null
+    displayName: Recipes
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: Turn Maintenance On
+      customProperties: null
+      displayName: Turn Maintenance On
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Turn Maintenance Off
+      customProperties: null
+      displayName: Turn Maintenance Off
+      path: bundle.rb
+      scope: null
+    commandName: Maintenance
+    customProperties: null
+    displayName: Maintenance
+    path: bundle.rb
+    scope: null
+  commandName: Engine Yard
+  customProperties: null
+  displayName: Engine Yard
+  path: bundle.rb
+  scope: source.ruby, project.rails
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Deploy App
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\deployment.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Open SSH Session
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\deployment.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: List Environments
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\deployment.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Retrieve Logs
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\deployment.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Rebuild Environment
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\deployment.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Rollback App
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\deployment.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Turn Maintenance On
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\maintenance.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Turn Maintenance Off
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\maintenance.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Apply Recipes
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\recipes.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Upload Recipes
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\recipes.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Download Recipes
+  input: []
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: discard
+  path: commands\recipes.rb
+  runType: current_thread
+  scope: source.ruby, project.rails
+  workingDirectoryType: CURRENT_PROJECT
+copyright: 'Copyright 2010 Aptana Inc. Distributed under the MIT license.
+
+  '
+customProperties: {authoer: Allen Yeung}
+decreaseIndentMarkers: &id002 {}
+description: 'Easy deployment with Engine Yard from within Studio 3
+
+  '
+displayName: Engine Yard
+fileTypeRegistry: *id002
+fileTypes: *id001
+foldingStartMarkers: *id002
+foldingStopMarkers: *id002
+increaseIndentMarkers: *id002
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: git://github.com/aptana/engineyard.ruble.git
+visible: true

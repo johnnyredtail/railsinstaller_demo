@@ -1,0 +1,53 @@
+Manifest-Version: 1.0
+Require-Bundle: org.junit;bundle-version="[3.8.0,3.9.9]";resolution:=o
+ ptional,org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.jface.tex
+ t,org.eclipse.core.resources,org.eclipse.ui.workbench.texteditor,org.
+ eclipse.core.filebuffers,org.eclipse.ui.console,org.eclipse.core.vari
+ ables
+Export-Package: org.apache.commons.codec,org.apache.commons.codec.bina
+ ry,org.apache.commons.codec.digest,org.apache.commons.codec.language,
+ org.apache.commons.codec.net,org.python.pydev.bindingutils,org.python
+ .pydev.core,org.python.pydev.core.bundle,org.python.pydev.core.cache,
+ org.python.pydev.core.callbacks,org.python.pydev.core.concurrency,org
+ .python.pydev.core.docutils,org.python.pydev.core.log,org.python.pyde
+ v.core.net,org.python.pydev.core.parser,org.python.pydev.core.perform
+ anceeval,org.python.pydev.core.resource_stubs,org.python.pydev.core.s
+ tructure,org.python.pydev.core.tooltips,org.python.pydev.core.tooltip
+ s.presenter,org.python.pydev.core.uiutils
+Bundle-Vendor: Aptana
+Eclipse-LazyStart: true
+Bundle-ClassPath: core.jar,commons-codec.jar,lib/jpathwatch-0-94.jar
+Bundle-Version: 2.4.0.2012020116
+Bundle-Name: Core Plug-in
+Bundle-Localization: plugin
+Bundle-ManifestVersion: 2
+Bundle-Activator: org.python.pydev.core.CorePlugin
+Bundle-SymbolicName: org.python.pydev.core; singleton:=true
+
+Name: LICENSE.txt
+SHA1-Digest: p+9tB+uCL9D+iYG9D8zDHITgqgU=
+
+Name: lib/jpathwatch-0-94.jar
+SHA1-Digest: hTOXxaC7/BOtFJGXqrvYvzNPBnw=
+
+Name: lib/JPATHWATCH_LICENSE.txt
+SHA1-Digest: 5xGJCxKl1gf1sjLCusXb54QaREw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 6mDW8kS/T9pK7w1by/wcxy21Z20=
+
+Name: plugin.xml
+SHA1-Digest: vhsqsw4pEKXDdiqIkEMLkjjE6XY=
+
+Name: core.jar
+SHA1-Digest: ZSS8WsI1K2vKzQtlXghPNhpgzcY=
+
+Name: icons/python_logging.png
+SHA1-Digest: B53S93ZEmIb0NP4+Urv+EiZbl/M=
+
+Name: lib/JPATHWATCH_README.txt
+SHA1-Digest: ScDfRWabNTuJZHVN8gJbISkeMgk=
+
+Name: commons-codec.jar
+SHA1-Digest: 6BW/Jft3fiaxelOZ77o8veosqds=
+

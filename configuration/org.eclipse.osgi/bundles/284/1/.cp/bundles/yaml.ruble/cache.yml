@@ -1,0 +1,141 @@
+!!com.aptana.scripting.model.BundleElement
+author: Benjamin Jackson
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children: &id001 []
+    commandName: 'key: value'
+    customProperties: null
+    displayName: 'key: value'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Add list item
+    customProperties: null
+    displayName: Add list item
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Sort Keys Alphabetically
+    customProperties: null
+    displayName: Sort Keys Alphabetically
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Convert Document / Selection to Ruby
+    customProperties: null
+    displayName: Convert Document / Selection to Ruby
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Syntax Cheat Sheet
+    customProperties: null
+    displayName: Syntax Cheat Sheet
+    path: bundle.rb
+    scope: null
+  commandName: YAML
+  customProperties: null
+  displayName: YAML
+  path: bundle.rb
+  scope: null
+- !!com.aptana.scripting.model.EnvironmentElement {customProperties: null, displayName: environment-3dab5566-1e70-4a2f-a626-abfadd2bcfaf,
+  path: bundle.rb, scope: source.yaml}
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Add list item
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [NUMPAD_ENTER]
+  outputPath: null
+  outputType: insert_as_snippet
+  path: commands\add_list_item.rb
+  runType: current_thread
+  scope: source.yaml
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Convert Document / Selection to Ruby
+  input: [selection, document]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+H]
+  outputPath: null
+  outputType: create_new_document
+  path: commands\convert_to_ruby.rb
+  runType: current_thread
+  scope: source.yaml
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Sort Keys Alphabetically
+  input: [selection]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: replace_selection
+  path: commands\sort_keys_alphabetically.rb
+  runType: current_thread
+  scope: source.yaml
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Syntax Cheat Sheet
+  input: [none]
+  inputPath: null
+  keyBindingMap: null
+  outputPath: null
+  outputType: show_as_html
+  path: commands\syntax_cheat_sheet.rb
+  runType: current_thread
+  scope: source.yaml
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: {expansion: '${1:key}: ${2:value}$0'}
+  displayName: 'key: value'
+  input: [none]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+;]
+  outputPath: null
+  outputType: insert_as_snippet
+  path: snippets\snippets.rb
+  runType: current_thread
+  scope: source.yaml - string
+  workingDirectoryType: UNDEFINED
+copyright: null
+customProperties: {contact_email_rot_13: ora@vapbzhzqrfvta.pbz}
+decreaseIndentMarkers: {!scope 'source.yaml': !regexp '(?-mix:^\s+\}$)'}
+description: '<a href="http://www.yaml.org/">YAML</a> is a straightforward machine
+  parsable data serialization format designed for human readability and interaction
+  with scripting languages such as Perl and Python.
+
+  '
+displayName: YAML
+fileTypeRegistry: &id002 {}
+fileTypes: *id001
+foldingStartMarkers: *id002
+foldingStopMarkers: *id002
+increaseIndentMarkers: {!scope 'source.yaml': !regexp '(?-mix:^\s*.*(:|-) ?(&\w+)?(\{[^}"'']*|\([^)"'']*)?$)'}
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: git://github.com/aptana/yaml.ruble.git
+visible: true

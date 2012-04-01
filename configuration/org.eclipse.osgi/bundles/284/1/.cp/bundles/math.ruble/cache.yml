@@ -1,0 +1,249 @@
+!!com.aptana.scripting.model.BundleElement
+author: Christopher Williams
+children:
+- !!com.aptana.scripting.model.MenuElement
+  children:
+  - children: &id001 []
+    commandName: Evaluate Line / Selection
+    customProperties: null
+    displayName: Evaluate Line / Selection
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Evaluate and Replace Expression
+    customProperties: null
+    displayName: Evaluate and Replace Expression
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Evaluate and Replace Expression (rounded)
+    customProperties: null
+    displayName: Evaluate and Replace Expression (rounded)
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Add Numbers in Line / Selection
+    customProperties: null
+    displayName: Add Numbers in Line / Selection
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Subtract Numbers in Line / Selection
+    customProperties: null
+    displayName: Subtract Numbers in Line / Selection
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children:
+    - children: *id001
+      commandName: Decimal to Hex
+      customProperties: null
+      displayName: Decimal to Hex
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Decimal to Octal
+      customProperties: null
+      displayName: Decimal to Octal
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Hex to Decimal
+      customProperties: null
+      displayName: Hex to Decimal
+      path: bundle.rb
+      scope: null
+    - children: *id001
+      commandName: Octal to Decimal
+      customProperties: null
+      displayName: Octal to Decimal
+      path: bundle.rb
+      scope: null
+    commandName: Convert
+    customProperties: null
+    displayName: Convert
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: '-'
+    customProperties: null
+    displayName: '-'
+    path: bundle.rb
+    scope: null
+  - children: *id001
+    commandName: Send Line / Selection to Google Calculator
+    customProperties: null
+    displayName: Send Line / Selection to Google Calculator
+    path: bundle.rb
+    scope: null
+  commandName: Math
+  customProperties: null
+  displayName: Math
+  path: bundle.rb
+  scope: null
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Add Numbers in Line / Selection
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: insert_as_text
+  path: commands\add_selected_numbers.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Decimal to Hex
+  input: [selection, word]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\decimal_to_hex.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Decimal to Octal
+  input: [selection, word]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\decimal_to_octal.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Evaluate and Replace Expression
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\evaluate_and_replace_expression.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Evaluate Line / Selection
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: insert_as_text
+  path: commands\evaluate_expression.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Evaluate and Replace Expression (rounded)
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\evaluate_round_and_replace_expression.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Hex to Decimal
+  input: [selection, word]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\hex_to_decimal.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Octal to Decimal
+  input: [selection, word]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\octal_to_decimal.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Send Line / Selection to Google Calculator
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: replace_selection
+  path: commands\send_to_google_calculator.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+- !!com.aptana.scripting.model.CommandElement
+  async: false
+  customProperties: null
+  displayName: Subtract Numbers in Line / Selection
+  input: [selection, line]
+  inputPath: null
+  keyBindingMap:
+    !!com.aptana.scripting.model.Platform 'ALL': [CONTROL+M2+C]
+  outputPath: null
+  outputType: insert_as_text
+  path: commands\subtract_selected_numbers.rb
+  runType: current_thread
+  scope: null
+  workingDirectoryType: UNDEFINED
+copyright: Copyright 2010 Aptana Inc. Distributed under the MIT license.
+customProperties: null
+decreaseIndentMarkers: &id002 {}
+description: Support for performing different calculations, ported from TextMate.
+displayName: Math
+fileTypeRegistry: *id002
+fileTypes: *id001
+foldingStartMarkers: *id002
+foldingStopMarkers: *id002
+increaseIndentMarkers: *id002
+license: null
+licenseUrl: null
+path: bundle.rb
+repository: git://github.com/aptana/math.ruble.git
+visible: true

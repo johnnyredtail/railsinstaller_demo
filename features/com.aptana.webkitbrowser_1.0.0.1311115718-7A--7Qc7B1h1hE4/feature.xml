@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.aptana.webkitbrowser"
+      label="%featureName"
+      version="1.0.0.1311115718-7A--7Qc7B1h1hE4"
+      provider-name="%providerName"
+      os="linux,macosx,win32"
+      ws="carbon,cocoa,gtk,win32"
+      arch="ppc,x86,x86_64">
+
+   <description url="http://www.aptana.com/">
+      %description
+   </description>
+
+   <copyright url="%copyrightURL">
+      %copyright
+   </copyright>
+
+   <license url="%licenseURL">
+      %license
+   </license>
+
+   <requires>
+      <import plugin="org.eclipse.swt" version="3.5.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1308865296"
+         unpack="false"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.macosx.x86"
+         os="macosx"
+         ws="cocoa"
+         arch="x86"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1299622773"
+         fragment="true"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.macosx.x86_64"
+         os="macosx"
+         ws="cocoa"
+         arch="x86_64"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1308865296"
+         fragment="true"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.macosx.carbon"
+         os="macosx"
+         ws="carbon"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1299885857"
+         fragment="true"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.macosx.cocoa.ppc"
+         os="macosx"
+         ws="cocoa"
+         arch="ppc"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1300123090"
+         fragment="true"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.linux.x86"
+         os="linux"
+         ws="gtk"
+         arch="x86"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1295409059"
+         fragment="true"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.linux.x86_64"
+         os="linux"
+         ws="gtk"
+         arch="x86_64"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1295409059"
+         fragment="true"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.win32.x86"
+         os="win32"
+         arch="x86"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1295409059"
+         fragment="true"/>
+
+   <plugin
+         id="com.aptana.swt.webkitbrowser.win32.x86_64"
+         os="win32"
+         arch="x86_64"
+         download-size="0"
+         install-size="0"
+         version="1.0.0.1299622773"
+         fragment="true"/>
+
+</feature>
